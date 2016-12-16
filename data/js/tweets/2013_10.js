@@ -3,6 +3,67 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "CartoDB",
+      "screen_name" : "CartoDB",
+      "indices" : [ 3, 11 ],
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 61, 83 ],
+      "url" : "http:\/\/t.co\/4y5gAtOnWA",
+      "expanded_url" : "http:\/\/www.isnotnews.com\/2013\/09\/26\/hispanos_empleo\/",
+      "display_url" : "isnotnews.com\/2013\/09\/26\/his\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "396022440838823936",
+  "text" : "RT @cartoDB: The Hispanic Community in USA vs Unemployment - http:\/\/t.co\/4y5gAtOnWA - Great maps!",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 48, 70 ],
+        "url" : "http:\/\/t.co\/4y5gAtOnWA",
+        "expanded_url" : "http:\/\/www.isnotnews.com\/2013\/09\/26\/hispanos_empleo\/",
+        "display_url" : "isnotnews.com\/2013\/09\/26\/his\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "395974477429112832",
+    "text" : "The Hispanic Community in USA vs Unemployment - http:\/\/t.co\/4y5gAtOnWA - Great maps!",
+    "id" : 395974477429112832,
+    "created_at" : "2013-10-31 18:04:06 +0000",
+    "user" : {
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
+      "protected" : false,
+      "id_str" : "241079136",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
+      "id" : 241079136,
+      "verified" : false
+    }
+  },
+  "id" : 396022440838823936,
+  "created_at" : "2013-10-31 21:14:42 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Jorge Sanz",
       "screen_name" : "xurxosanz",
       "indices" : [ 0, 10 ],
@@ -232,7 +293,7 @@ Grailbird.data.tweets_2013_10 =
       "id" : 11584672
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jatorre\/status\/395675615526801408\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jatorre\/status\/395675615526801408\/photo\/1",
       "indices" : [ 74, 96 ],
       "url" : "http:\/\/t.co\/pkjubuuCb7",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BX244DiCEAEHmTZ.png",
@@ -278,7 +339,7 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/jatorre\/status\/395675615526801408\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/jatorre\/status\/395675615526801408\/photo\/1",
         "indices" : [ 61, 83 ],
         "url" : "http:\/\/t.co\/pkjubuuCb7",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BX244DiCEAEHmTZ.png",
@@ -499,12 +560,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/fTPA5TEI91",
-      "expanded_url" : "http:\/\/ow.ly\/qjrU8",
-      "display_url" : "ow.ly\/qjrU8"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "395574653588373504",
@@ -584,12 +640,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 122, 140 ],
-      "url" : "http:\/\/t.co\/LCl7mUy7Zb",
-      "expanded_url" : "http:\/\/www.nosolosig.com\/noticias\/195-el-cnig-adjudica-por-90-000-euros-la-actualizacion-de-funcionalidades-del-geoportal-con-un-expediente-negociado-sin-publicidad-en-el-que-solo-participa-una-empresa",
-      "display_url" : "nosolosig.com\/noticias\/195-e\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "395574594197024768",
@@ -635,7 +686,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "delawen",
       "protected" : false,
       "id_str" : "154456790",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/465455694997495808\/5JEoB6GW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752501360613031936\/yR8oTMk7_normal.jpg",
       "id" : 154456790,
       "verified" : false
     }
@@ -810,12 +861,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/QTqPj2jhMh",
-      "expanded_url" : "https:\/\/www.mapbox.com\/blog\/battlefield-launches-with-mapbox-maps\/",
-      "display_url" : "mapbox.com\/blog\/battlefie\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "395210395184812032",
@@ -857,7 +903,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 395210395184812032,
@@ -1584,37 +1630,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "570137427",
       "id" : 570137427
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/nosolosig\/status\/394529102943629312\/photo\/1",
-      "indices" : [ 125, 140 ],
-      "url" : "http:\/\/t.co\/6mjhtHzQXH",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BXmmIPsCMAAzbUP.png",
-      "id_str" : "394529102952017920",
-      "id" : 394529102952017920,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BXmmIPsCMAAzbUP.png",
-      "sizes" : [ {
-        "h" : 506,
-        "resize" : "fit",
-        "w" : 650
-      }, {
-        "h" : 467,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 265,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 506,
-        "resize" : "fit",
-        "w" : 650
-      } ],
-      "display_url" : "pic.twitter.com\/6mjhtHzQXH"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "cartograf\u00EDa",
       "indices" : [ 53, 65 ]
@@ -1646,7 +1662,7 @@ Grailbird.data.tweets_2013_10 =
         "id" : 570137427
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/nosolosig\/status\/394529102943629312\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/nosolosig\/status\/394529102943629312\/photo\/1",
         "indices" : [ 110, 132 ],
         "url" : "http:\/\/t.co\/6mjhtHzQXH",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BXmmIPsCMAAzbUP.png",
@@ -2358,10 +2374,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 250352666
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 60, 68 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3310,10 +3326,10 @@ Grailbird.data.tweets_2013_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3346,11 +3362,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 391127089828859904,
     "created_at" : "2013-10-18 09:02:19 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }
@@ -3678,12 +3694,6 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 24, 28 ],
       "id_str" : "3108351",
       "id" : 3108351
-    }, {
-      "name" : "Lora Kolodny",
-      "screen_name" : "lorakolodny",
-      "indices" : [ 139, 140 ],
-      "id_str" : "27046692",
-      "id" : 27046692
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3732,7 +3742,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "ericg",
       "protected" : false,
       "id_str" : "966871",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000092213776\/b02f671802a9578dddfccd7090d8f857_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767243049470562304\/1nmvrmiF_normal.jpg",
       "id" : 966871,
       "verified" : false
     }
@@ -3758,37 +3768,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "117034312",
       "id" : 117034312
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/cirollueca\/status\/390486567586111488\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/BUzu0X5DV3",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BWtJdseIcAA6cOK.jpg",
-      "id_str" : "390486567200256000",
-      "id" : 390486567200256000,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BWtJdseIcAA6cOK.jpg",
-      "sizes" : [ {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/BUzu0X5DV3"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "intensiudigitals",
       "indices" : [ 116, 133 ]
@@ -3803,7 +3783,7 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/cirollueca\/status\/390486567586111488\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/cirollueca\/status\/390486567586111488\/photo\/1",
         "indices" : [ 118, 140 ],
         "url" : "http:\/\/t.co\/BUzu0X5DV3",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BWtJdseIcAA6cOK.jpg",
@@ -4006,12 +3986,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/wuCNTwDBTt",
-      "expanded_url" : "http:\/\/www.nosolosig.com\/articulos\/185-georreferenciacion-de-colecciones-de-cartografia-antigua-map-warper-y-georeferencer",
-      "display_url" : "nosolosig.com\/articulos\/185-\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "390134029976346626",
@@ -4363,12 +4338,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 119, 140 ],
-      "url" : "https:\/\/t.co\/6q25HlcYjN",
-      "expanded_url" : "https:\/\/www.mapbox.com\/blog\/osrm-switches-to-bsd\/",
-      "display_url" : "mapbox.com\/blog\/osrm-swit\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "389759321799925760",
@@ -4398,7 +4368,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 389759321799925760,
@@ -4810,7 +4780,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 388681044918280192,
@@ -5040,10 +5010,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 60556770
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 55, 63 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "Mapbox",
       "screen_name" : "Mapbox",
@@ -5071,10 +5041,10 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 39, 47 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       }, {
         "name" : "Mapbox",
         "screen_name" : "Mapbox",
@@ -5642,12 +5612,6 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 117, 128 ],
       "id_str" : "17382568",
       "id" : 17382568
-    }, {
-      "name" : "wiredmaps",
-      "screen_name" : "wiredmaps",
-      "indices" : [ 133, 140 ],
-      "id_str" : "4052279180",
-      "id" : 4052279180
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6110,7 +6074,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GIS and Geomatics",
+      "name" : "\uD83C\uDDE8\uD83C\uDDE6 GIS & Geomatics",
       "screen_name" : "CanadianGIS",
       "indices" : [ 100, 112 ],
       "id_str" : "176597595",
@@ -6466,37 +6430,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "606393337",
       "id" : 606393337
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquietosarg\/status\/385547819190202368\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/HBXKgERX6I",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BVm9stqCAAAEyxL.jpg",
-      "id_str" : "385547818984669184",
-      "id" : 385547818984669184,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVm9stqCAAAEyxL.jpg",
-      "sizes" : [ {
-        "h" : 339,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 540,
-        "resize" : "fit",
-        "w" : 957
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 192,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 540,
-        "resize" : "fit",
-        "w" : 957
-      } ],
-      "display_url" : "pic.twitter.com\/HBXKgERX6I"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "geoserver",
       "indices" : [ 60, 70 ]
@@ -6514,7 +6448,7 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/geoinquietosarg\/status\/385547819190202368\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/geoinquietosarg\/status\/385547819190202368\/photo\/1",
         "indices" : [ 111, 133 ],
         "url" : "http:\/\/t.co\/HBXKgERX6I",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BVm9stqCAAAEyxL.jpg",
@@ -6583,7 +6517,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slashgeo.org",
+      "name" : "Slashgeo",
       "screen_name" : "slashgeo",
       "indices" : [ 3, 12 ],
       "id_str" : "28441141",
@@ -6599,9 +6533,6 @@ Grailbird.data.tweets_2013_10 =
     }, {
       "text" : "opendata",
       "indices" : [ 88, 97 ]
-    }, {
-      "text" : "Geomatique2013",
-      "indices" : [ 136, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -6634,7 +6565,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 385785925374337024,
     "created_at" : "2013-10-03 15:18:26 +0000",
     "user" : {
-      "name" : "Slashgeo.org",
+      "name" : "Slashgeo",
       "screen_name" : "slashgeo",
       "protected" : false,
       "id_str" : "28441141",
@@ -6664,11 +6595,11 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "233320941",
       "id" : 233320941
     }, {
-      "name" : "jQuery",
+      "name" : "jquery",
       "screen_name" : "jquery",
       "indices" : [ 38, 45 ],
-      "id_str" : "14538601",
-      "id" : 14538601
+      "id_str" : "787925705988403200",
+      "id" : 787925705988403200
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6686,11 +6617,11 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jQuery",
+        "name" : "jquery",
         "screen_name" : "jquery",
         "indices" : [ 22, 29 ],
-        "id_str" : "14538601",
-        "id" : 14538601
+        "id_str" : "787925705988403200",
+        "id" : 787925705988403200
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -6738,12 +6669,12 @@ Grailbird.data.tweets_2013_10 =
       "id" : 531193105
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 88, 96 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
-      "name" : "zaragoza.es",
+      "name" : "AyuntamientoZaragoza",
       "screen_name" : "zaragoza_es",
       "indices" : [ 97, 109 ],
       "id_str" : "23737308",
@@ -6760,20 +6691,11 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 123, 136 ],
       "id_str" : "248790366",
       "id" : 248790366
-    }, {
-      "name" : "BiziZGZ",
-      "screen_name" : "biZiZGZ",
-      "indices" : [ 137, 140 ],
-      "id_str" : "1435010401",
-      "id" : 1435010401
     } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Pilar2013",
       "indices" : [ 33, 43 ]
-    }, {
-      "text" : "opendata",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 65, 87 ],
@@ -6790,12 +6712,12 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 72, 80 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       }, {
-        "name" : "zaragoza.es",
+        "name" : "AyuntamientoZaragoza",
         "screen_name" : "zaragoza_es",
         "indices" : [ 81, 93 ],
         "id_str" : "23737308",
@@ -7392,10 +7314,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 285310202
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 26, 34 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "Peter Desmet",
       "screen_name" : "peterdesmet",
@@ -7405,12 +7327,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/QLf2vBrcQv",
-      "expanded_url" : "http:\/\/lifewatch.inbo.be\/blog\/posts\/tracking-eric.html",
-      "display_url" : "lifewatch.inbo.be\/blog\/posts\/tra\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "385138942737416192",
@@ -7420,10 +7337,10 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 10, 18 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       }, {
         "name" : "Peter Desmet",
         "screen_name" : "peterdesmet",
@@ -7483,10 +7400,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 95695959
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 95, 103 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -7498,9 +7415,6 @@ Grailbird.data.tweets_2013_10 =
     }, {
       "text" : "maps",
       "indices" : [ 133, 138 ]
-    }, {
-      "text" : "gis",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 57, 79 ],
@@ -7523,10 +7437,10 @@ Grailbird.data.tweets_2013_10 =
         "id" : 95695959
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 81, 89 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -7613,10 +7527,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 562926380
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 70, 78 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "Gephi graph viz",
       "screen_name" : "Gephi",
@@ -7632,12 +7546,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/6Se3LboyEd",
-      "expanded_url" : "http:\/\/conventagusti.com\/tallers\/portfolio\/visualiztacio-de-dades-xarxes-mapes-i-grafics\/",
-      "display_url" : "conventagusti.com\/tallers\/portfo\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "385038323053760512",
@@ -7647,10 +7556,10 @@ Grailbird.data.tweets_2013_10 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 53, 61 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       }, {
         "name" : "Gephi graph viz",
         "screen_name" : "Gephi",

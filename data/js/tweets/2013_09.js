@@ -247,7 +247,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/383503213376200704\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/383503213376200704\/photo\/1",
       "indices" : [ 42, 64 ],
       "url" : "http:\/\/t.co\/bXUdfOHo2t",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BVJ6I-VCAAApMCK.jpg",
@@ -299,7 +299,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/383286561267138560\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/383286561267138560\/photo\/1",
       "indices" : [ 73, 95 ],
       "url" : "http:\/\/t.co\/AGPPoJwiw4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BVG1GLqCQAEFoH7.jpg",
@@ -582,11 +582,6 @@ Grailbird.data.tweets_2013_09 =
       "url" : "http:\/\/t.co\/wFy4z22sxL",
       "expanded_url" : "http:\/\/ol3js.org\/",
       "display_url" : "ol3js.org"
-    }, {
-      "indices" : [ 122, 140 ],
-      "url" : "http:\/\/t.co\/BhNxpbfPAF",
-      "expanded_url" : "http:\/\/bit.ly\/18SL8tK",
-      "display_url" : "bit.ly\/18SL8tK"
     } ]
   },
   "geo" : { },
@@ -1213,18 +1208,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 116, 131 ],
       "id_str" : "2835302889",
       "id" : 2835302889
-    }, {
-      "name" : "Astrium GEO",
-      "screen_name" : "astriumgeo",
-      "indices" : [ 132, 140 ],
-      "id_str" : "2514886890",
-      "id" : 2514886890
-    }, {
-      "name" : "EADS",
-      "screen_name" : "EADSgroup",
-      "indices" : [ 139, 140 ],
-      "id_str" : "1633600249",
-      "id" : 1633600249
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1311,37 +1294,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "404133921",
       "id" : 404133921
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/MuntanyesCD\/status\/379902300900192256\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/allLaAUdoq",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BUWvITLCAAAO3wz.jpg",
-      "id_str" : "379902300703031296",
-      "id" : 379902300703031296,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BUWvITLCAAAO3wz.jpg",
-      "sizes" : [ {
-        "h" : 684,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 401,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 227,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 987,
-        "resize" : "fit",
-        "w" : 1477
-      } ],
-      "display_url" : "pic.twitter.com\/allLaAUdoq"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 112, 134 ],
@@ -1358,7 +1311,7 @@ Grailbird.data.tweets_2013_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/MuntanyesCD\/status\/379902300900192256\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/MuntanyesCD\/status\/379902300900192256\/photo\/1",
         "indices" : [ 118, 140 ],
         "url" : "http:\/\/t.co\/allLaAUdoq",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BUWvITLCAAAO3wz.jpg",
@@ -1484,7 +1437,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379992644946255872",
   "text" : "RT @TheMapAddict: Falcon UAV drones assisting with flooding in Colorado \u2013 until FEMA stops them http:\/\/t.co\/aF9kZbv672 | #geospatial #GIS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1545,10 +1498,7 @@ Grailbird.data.tweets_2013_09 =
       "id" : 966871
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "OKCon",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1583,7 +1533,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 379992402670661632,
@@ -1615,12 +1565,7 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/GrdDkWWE9S",
-      "expanded_url" : "http:\/\/xurl.es\/bktii",
-      "display_url" : "xurl.es\/bktii"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "379981219246919681",
@@ -2037,37 +1982,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "121146038",
       "id" : 121146038
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/emergenciescat\/status\/379190431981895680\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/WLeKg5E0oj",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BUMnsEmCMAIOGYG.jpg",
-      "id_str" : "379190431730249730",
-      "id" : 379190431730249730,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BUMnsEmCMAIOGYG.jpg",
-      "sizes" : [ {
-        "h" : 468,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 699,
-        "resize" : "fit",
-        "w" : 896
-      }, {
-        "h" : 265,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 699,
-        "resize" : "fit",
-        "w" : 896
-      } ],
-      "display_url" : "pic.twitter.com\/WLeKg5E0oj"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "Protecciocicivl",
       "indices" : [ 20, 36 ]
@@ -2088,7 +2003,7 @@ Grailbird.data.tweets_2013_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/emergenciescat\/status\/379190431981895680\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/emergenciescat\/status\/379190431981895680\/photo\/1",
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/WLeKg5E0oj",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BUMnsEmCMAIOGYG.jpg",
@@ -2298,9 +2213,6 @@ Grailbird.data.tweets_2013_09 =
     }, {
       "text" : "geography",
       "indices" : [ 120, 130 ]
-    }, {
-      "text" : "backtoschool",
-      "indices" : [ 131, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 97, 119 ],
@@ -2612,18 +2524,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 116, 127 ],
       "id_str" : "318007637",
       "id" : 318007637
-    }, {
-      "name" : "Estoig Digital",
-      "screen_name" : "estoigdigital",
-      "indices" : [ 128, 140 ],
-      "id_str" : "173084741",
-      "id" : 173084741
-    }, {
-      "name" : "guifi\u00B7net",
-      "screen_name" : "guifinet",
-      "indices" : [ 139, 140 ],
-      "id_str" : "84117285",
-      "id" : 84117285
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3472,18 +3372,9 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 122, 133 ],
       "id_str" : "14048406",
       "id" : 14048406
-    }, {
-      "name" : "Telenoika",
-      "screen_name" : "Telenoika",
-      "indices" : [ 139, 140 ],
-      "id_str" : "951636050",
-      "id" : 951636050
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "datajam",
-      "indices" : [ 134, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 66, 88 ],
       "url" : "http:\/\/t.co\/kWadS21V1n",

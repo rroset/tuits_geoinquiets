@@ -733,10 +733,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 239342352
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "inspire_eu",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1212,7 +1209,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -1233,16 +1230,8 @@ Grailbird.data.tweets_2012_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "geoinquietos",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/I67J7s1C",
-      "expanded_url" : "http:\/\/wiki.osgeo.org\/wiki\/Geoinquietos_Buenos_Aires#Segunda_Reuni.C3.B3n",
-      "display_url" : "wiki.osgeo.org\/wiki\/Geoinquie\u2026"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "216069912869879808",
@@ -2117,7 +2106,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "SIGdeletras",
       "protected" : false,
       "id_str" : "224679591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000226116421\/106f6956b2ea236b46e593fac8a7c4f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738980679837483008\/SRlR-XQi_normal.jpg",
       "id" : 224679591,
       "verified" : false
     }
@@ -2314,7 +2303,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 41416009
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/213528886816948224\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/213528886816948224\/photo\/1",
       "indices" : [ 38, 58 ],
       "url" : "http:\/\/t.co\/4jiewf3C",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AvabZChCQAAfvdX.jpg",
@@ -3456,12 +3445,7 @@ Grailbird.data.tweets_2012_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/YWwhO5tO",
-      "expanded_url" : "http:\/\/kcy.me\/8xw6",
-      "display_url" : "kcy.me\/8xw6"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "211049335457193984",
@@ -4217,173 +4201,6 @@ Grailbird.data.tweets_2012_06 =
   "id" : 208431026639355904,
   "in_reply_to_status_id" : 208293063553060866,
   "created_at" : "2012-06-01 05:33:23 +0000",
-  "in_reply_to_screen_name" : "CitySourced",
-  "in_reply_to_user_id_str" : "71910572",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "CREAF",
-      "screen_name" : "CREAF_ecologia",
-      "indices" : [ 3, 18 ],
-      "id_str" : "381485762",
-      "id" : 381485762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 112, 132 ],
-      "url" : "http:\/\/t.co\/OV3QXEJP",
-      "expanded_url" : "http:\/\/blog.creaf.cat\/?p=1223",
-      "display_url" : "blog.creaf.cat\/?p=1223"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "208279858751610880",
-  "text" : "RT @CREAF_ecologia: Presentaci\u00F3 Tesi Doctoral: Models de dades dels SIG a Internet. Aspectes te\u00F2rics i aplicats http:\/\/t.co\/OV3QXEJP",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 92, 112 ],
-        "url" : "http:\/\/t.co\/OV3QXEJP",
-        "expanded_url" : "http:\/\/blog.creaf.cat\/?p=1223",
-        "display_url" : "blog.creaf.cat\/?p=1223"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "208225391599558656",
-    "text" : "Presentaci\u00F3 Tesi Doctoral: Models de dades dels SIG a Internet. Aspectes te\u00F2rics i aplicats http:\/\/t.co\/OV3QXEJP",
-    "id" : 208225391599558656,
-    "created_at" : "2012-05-31 15:56:16 +0000",
-    "user" : {
-      "name" : "CREAF",
-      "screen_name" : "CREAF_ecologia",
-      "protected" : false,
-      "id_str" : "381485762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1563785892\/Captura_normal.JPG",
-      "id" : 381485762,
-      "verified" : false
-    }
-  },
-  "id" : 208279858751610880,
-  "created_at" : "2012-05-31 19:32:42 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "CrisisMappers",
-      "screen_name" : "CrisisMappers",
-      "indices" : [ 3, 17 ],
-      "id_str" : "106840674",
-      "id" : 106840674
-    }, {
-      "name" : "Patrick Meier",
-      "screen_name" : "PatrickMeier",
-      "indices" : [ 22, 35 ],
-      "id_str" : "16895951",
-      "id" : 16895951
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 102, 122 ],
-      "url" : "http:\/\/t.co\/5HhwHTJH",
-      "expanded_url" : "http:\/\/awe.sm\/5vsKd",
-      "display_url" : "awe.sm\/5vsKd"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "208279458459811841",
-  "text" : "RT @CrisisMappers: RT @PatrickMeier: The Future of Crisis Mapping? Full-Sized Arcade Pinball Machines http:\/\/t.co\/5HhwHTJH",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.twhirl.org\" rel=\"nofollow\"\u003ESeesmic twhirl\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Patrick Meier",
-        "screen_name" : "PatrickMeier",
-        "indices" : [ 3, 16 ],
-        "id_str" : "16895951",
-        "id" : 16895951
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 83, 103 ],
-        "url" : "http:\/\/t.co\/5HhwHTJH",
-        "expanded_url" : "http:\/\/awe.sm\/5vsKd",
-        "display_url" : "awe.sm\/5vsKd"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "208208464131002368",
-    "text" : "RT @PatrickMeier: The Future of Crisis Mapping? Full-Sized Arcade Pinball Machines http:\/\/t.co\/5HhwHTJH",
-    "id" : 208208464131002368,
-    "created_at" : "2012-05-31 14:49:00 +0000",
-    "user" : {
-      "name" : "CrisisMappers",
-      "screen_name" : "CrisisMappers",
-      "protected" : false,
-      "id_str" : "106840674",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823634625\/9_normal.PNG",
-      "id" : 106840674,
-      "verified" : false
-    }
-  },
-  "id" : 208279458459811841,
-  "created_at" : "2012-05-31 19:31:07 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "CitySourced",
-      "screen_name" : "CitySourced",
-      "indices" : [ 0, 12 ],
-      "id_str" : "71910572",
-      "id" : 71910572
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "208240208280420352",
-  "geo" : { },
-  "id_str" : "208278985245863937",
-  "in_reply_to_user_id" : 71910572,
-  "text" : "@CitySourced sorry? A spanish book? I don't get it =(",
-  "id" : 208278985245863937,
-  "in_reply_to_status_id" : 208240208280420352,
-  "created_at" : "2012-05-31 19:29:14 +0000",
   "in_reply_to_screen_name" : "CitySourced",
   "in_reply_to_user_id_str" : "71910572",
   "user" : {

@@ -10,10 +10,7 @@ Grailbird.data.tweets_2013_06 =
       "id" : 86061373
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "inspireconf2013",
-      "indices" : [ 134, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -196,7 +193,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/350306533864787968\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/350306533864787968\/photo\/1",
       "indices" : [ 57, 79 ],
       "url" : "http:\/\/t.co\/054hQt5IVd",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BNyJ78HCUAASnT7.jpg",
@@ -616,12 +613,7 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/aKD7kV9Rdk",
-      "expanded_url" : "http:\/\/buff.ly\/1aa60gf",
-      "display_url" : "buff.ly\/1aa60gf"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "349522880415014912",

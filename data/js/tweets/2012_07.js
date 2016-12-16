@@ -2656,7 +2656,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 81, 97 ],
       "id_str" : "90515658",

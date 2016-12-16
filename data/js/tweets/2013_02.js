@@ -1,5 +1,109 @@
 Grailbird.data.tweets_2013_02 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/307229279136141313\/photo\/1",
+      "indices" : [ 43, 65 ],
+      "url" : "http:\/\/t.co\/g5amuj58Dr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BEN_Zs_CUAA3VEc.jpg",
+      "id_str" : "307229279140335616",
+      "id" : 307229279140335616,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BEN_Zs_CUAA3VEc.jpg",
+      "sizes" : [ {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 1536,
+        "resize" : "fit",
+        "w" : 2048
+      } ],
+      "display_url" : "pic.twitter.com\/g5amuj58Dr"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307229279136141313",
+  "text" : "I despr\u00E9s de les presentacions, i el sopar http:\/\/t.co\/g5amuj58Dr",
+  "id" : 307229279136141313,
+  "created_at" : "2013-02-28 20:42:23 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/307195024968388608\/photo\/1",
+      "indices" : [ 48, 70 ],
+      "url" : "http:\/\/t.co\/a9aYxO1Uau",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BENgP2RCEAAmow5.jpg",
+      "id_str" : "307195024972582912",
+      "id" : 307195024972582912,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BENgP2RCEAAmow5.jpg",
+      "sizes" : [ {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 1536,
+        "resize" : "fit",
+        "w" : 2048
+      } ],
+      "display_url" : "pic.twitter.com\/a9aYxO1Uau"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307195024968388608",
+  "text" : "Cartodb i Tilemill a Geoinquiets 3er aniversari http:\/\/t.co\/a9aYxO1Uau",
+  "id" : 307195024968388608,
+  "created_at" : "2013-02-28 18:26:16 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -151,37 +255,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "18690355",
       "id" : 18690355
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Milhaud\/status\/306814441012482048\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/7jxZIvwHPc",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BEIGG8kCUAADXN2.png",
-      "id_str" : "306814441020870656",
-      "id" : 306814441020870656,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BEIGG8kCUAADXN2.png",
-      "sizes" : [ {
-        "h" : 295,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 1738,
-        "resize" : "fit",
-        "w" : 2000
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 521,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 890,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/7jxZIvwHPc"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -193,7 +267,7 @@ Grailbird.data.tweets_2013_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Milhaud\/status\/306814441012482048\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Milhaud\/status\/306814441012482048\/photo\/1",
         "indices" : [ 111, 133 ],
         "url" : "http:\/\/t.co\/7jxZIvwHPc",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BEIGG8kCUAADXN2.png",
@@ -421,7 +495,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 65, 81 ],
       "id_str" : "90515658",
@@ -981,7 +1055,7 @@ Grailbird.data.tweets_2013_02 =
     "urls" : [ {
       "indices" : [ 114, 136 ],
       "url" : "http:\/\/t.co\/ugwj4zjjbr",
-      "expanded_url" : "http:\/\/twitter.com\/Todo__LigaBBVA\/status\/305743927334535168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Todo__LigaBBVA\/status\/305743927334535168\/photo\/1",
       "display_url" : "pic.twitter.com\/ugwj4zjjbr"
     } ]
   },
@@ -1377,10 +1451,7 @@ Grailbird.data.tweets_2013_02 =
       "id" : 15352541
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "opendata",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3447,18 +3518,6 @@ Grailbird.data.tweets_2013_02 =
       "indices" : [ 3, 18 ],
       "id_str" : "342713300",
       "id" : 342713300
-    }, {
-      "name" : "Empleo y Trabajo",
-      "screen_name" : "empleoytrabajo",
-      "indices" : [ 139, 140 ],
-      "id_str" : "153699126",
-      "id" : 153699126
-    }, {
-      "name" : "tecnoempleo",
-      "screen_name" : "tecnoempleo",
-      "indices" : [ 139, 140 ],
-      "id_str" : "56126959",
-      "id" : 56126959
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3503,7 +3562,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "Geographica_GS",
       "protected" : false,
       "id_str" : "342713300",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3471112256\/821e5ed8d7ab6133a4a9004e6b249f48_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758188824002498560\/xC-b8Ey9_normal.jpg",
       "id" : 342713300,
       "verified" : false
     }
@@ -3980,12 +4039,7 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/AvEPvKs9",
-      "expanded_url" : "http:\/\/ow.ly\/hi0PA",
-      "display_url" : "ow.ly\/hi0PA"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "298910540212891648",

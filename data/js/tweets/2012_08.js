@@ -1179,12 +1179,6 @@ Grailbird.data.tweets_2012_08 =
     }, {
       "text" : "android",
       "indices" : [ 119, 127 ]
-    }, {
-      "text" : "catdroid",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "geoinquiets",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 80, 100 ],

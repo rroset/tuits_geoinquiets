@@ -7,6 +7,33 @@ Grailbird.data.tweets_2013_12 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 34, 56 ],
+      "url" : "http:\/\/t.co\/GQuL0vvO7R",
+      "expanded_url" : "http:\/\/elblogdefarina.blogspot.com.es\/2012\/06\/william-bunge-en-fitzgerald.html",
+      "display_url" : "elblogdefarina.blogspot.com.es\/2012\/06\/willia\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "418079509313634305",
+  "text" : "William Bunge, el ge\u00F2graf taxista http:\/\/t.co\/GQuL0vvO7R",
+  "id" : 418079509313634305,
+  "created_at" : "2013-12-31 18:01:37 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 34, 56 ],
       "url" : "http:\/\/t.co\/B8OUTRL64S",
       "expanded_url" : "http:\/\/www.patentlyapple.com\/patently-apple\/2013\/12\/apple-bombards-patent-office-with-28-new-mapping-inventions.html",
       "display_url" : "patentlyapple.com\/patently-apple\u2026"
@@ -557,7 +584,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -1074,7 +1101,7 @@ Grailbird.data.tweets_2013_12 =
       "id" : 135444356
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/414100572762288129\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/414100572762288129\/photo\/1",
       "indices" : [ 47, 69 ],
       "url" : "http:\/\/t.co\/HzqUCL9P2j",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bb8uRt1IQAABNGF.jpg",
@@ -1550,12 +1577,7 @@ Grailbird.data.tweets_2013_12 =
       "text" : "siglibre8",
       "indices" : [ 113, 123 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 124, 140 ],
-      "url" : "http:\/\/t.co\/CfI1GgkSr5",
-      "expanded_url" : "http:\/\/ow.ly\/rUuyl",
-      "display_url" : "ow.ly\/rUuyl"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "413682655079972864",
@@ -2092,7 +2114,7 @@ Grailbird.data.tweets_2013_12 =
   "id_str" : "412960387425120256",
   "text" : "RT @TheMapAddict: Hexagonal Map of London http:\/\/t.co\/mtc7skEzLc | #GIS #mapping",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2649,15 +2671,9 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 18, 27 ],
       "id_str" : "209208144",
       "id" : 209208144
-    }, {
-      "name" : "Geo Inquiets",
-      "screen_name" : "geoinquiets",
-      "indices" : [ 139, 140 ],
-      "id_str" : "248286851",
-      "id" : 248286851
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/dapamont\/status\/411432264254648320\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/dapamont\/status\/411432264254648320\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/iq2m5MexCd",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BbWzdt7IEAAcUUp.jpg",
@@ -2710,7 +2726,7 @@ Grailbird.data.tweets_2013_12 =
         "id" : 248286851
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/dapamont\/status\/411432264254648320\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/dapamont\/status\/411432264254648320\/photo\/1",
         "indices" : [ 89, 111 ],
         "url" : "http:\/\/t.co\/iq2m5MexCd",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BbWzdt7IEAAcUUp.jpg",
@@ -2926,37 +2942,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "249364151",
       "id" : 249364151
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geostarters\/status\/411467320767156224\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Coh4dagqSi",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BbXTWSOCEAI40Xw.jpg",
-      "id_str" : "411467320775544834",
-      "id" : 411467320775544834,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbXTWSOCEAI40Xw.jpg",
-      "sizes" : [ {
-        "h" : 228,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 537,
-        "resize" : "fit",
-        "w" : 800
-      }, {
-        "h" : 403,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 537,
-        "resize" : "fit",
-        "w" : 800
-      } ],
-      "display_url" : "pic.twitter.com\/Coh4dagqSi"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "CORA",
       "indices" : [ 38, 43 ]
@@ -2988,7 +2974,7 @@ Grailbird.data.tweets_2013_12 =
         "id" : 249364151
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/geostarters\/status\/411467320767156224\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/geostarters\/status\/411467320767156224\/photo\/1",
         "indices" : [ 115, 137 ],
         "url" : "http:\/\/t.co\/Coh4dagqSi",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BbXTWSOCEAI40Xw.jpg",
@@ -3066,7 +3052,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/411435302469640192\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/411435302469640192\/photo\/1",
       "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/kZXolheiKA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BbW2OkxCIAEr8BJ.jpg",
@@ -4560,24 +4546,10 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 3, 14 ],
       "id_str" : "60556770",
       "id" : 60556770
-    }, {
-      "name" : "Meteocat. gencat",
-      "screen_name" : "meteocat",
-      "indices" : [ 62, 71 ],
-      "id_str" : "188685493",
-      "id" : 188685493
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "oletu",
-      "indices" : [ 133, 139 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 110, 132 ],
-      "url" : "http:\/\/t.co\/hc9zdBMgEi",
-      "expanded_url" : "http:\/\/www.lavanguardia.com\/encatala\/20131203\/54395122041\/el-govern-central-planteja-suprimir-organismes-de-la-generalitat.html",
-      "display_url" : "lavanguardia.com\/encatala\/20131\u2026"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "407868221304602625",
@@ -4586,7 +4558,7 @@ Grailbird.data.tweets_2013_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Meteocat. gencat",
+        "name" : "Meteocat",
         "screen_name" : "meteocat",
         "indices" : [ 46, 55 ],
         "id_str" : "188685493",
@@ -4645,12 +4617,6 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 126, 136 ],
       "id_str" : "14291056",
       "id" : 14291056
-    }, {
-      "name" : "Pedro-Juan Ferrer",
-      "screen_name" : "vehrka",
-      "indices" : [ 139, 140 ],
-      "id_str" : "41416009",
-      "id" : 41416009
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4900,11 +4866,6 @@ Grailbird.data.tweets_2013_12 =
       "url" : "http:\/\/t.co\/CzJX4ZUiPt",
       "expanded_url" : "http:\/\/goo.gl\/udIWgy",
       "display_url" : "goo.gl\/udIWgy"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/XNt8m70BdD",
-      "expanded_url" : "http:\/\/twitter.com\/theretronaut\/status\/406907864674881536\/photo\/1",
-      "display_url" : "pic.twitter.com\/XNt8m70BdD"
     } ]
   },
   "geo" : { },
@@ -4930,7 +4891,7 @@ Grailbird.data.tweets_2013_12 =
       }, {
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/XNt8m70BdD",
-        "expanded_url" : "http:\/\/twitter.com\/theretronaut\/status\/406907864674881536\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/theretronaut\/status\/406907864674881536\/photo\/1",
         "display_url" : "pic.twitter.com\/XNt8m70BdD"
       } ]
     },

@@ -598,7 +598,7 @@ Grailbird.data.tweets_2013_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/327475733708566529\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/327475733708566529\/photo\/1",
       "indices" : [ 52, 74 ],
       "url" : "http:\/\/t.co\/hEEOOBpl6p",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BIttcdyCcAADUPI.jpg",
@@ -1172,12 +1172,6 @@ Grailbird.data.tweets_2013_04 =
     }, {
       "text" : "AltUrgell",
       "indices" : [ 125, 135 ]
-    }, {
-      "text" : "Pirineu",
-      "indices" : [ 136, 140 ]
-    }, {
-      "text" : "muntanya",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 102, 124 ],
@@ -1224,7 +1218,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "RadioSeu",
       "protected" : false,
       "id_str" : "42907712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639404195309862912\/vt6PctDS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743849476620754944\/qk9s_Jcf_normal.jpg",
       "id" : 42907712,
       "verified" : false
     }
@@ -1291,7 +1285,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "GoGeomatics",
       "protected" : false,
       "id_str" : "91896627",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2416249529\/x6umjijstzs0kmmtc7iv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786299088253976576\/9kejygAu_normal.jpg",
       "id" : 91896627,
       "verified" : false
     }
@@ -2871,7 +2865,7 @@ Grailbird.data.tweets_2013_04 =
       "id" : 14202280
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/capooti\/status\/320637908614782977\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/capooti\/status\/320637908614782977\/photo\/1",
       "indices" : [ 80, 102 ],
       "url" : "http:\/\/t.co\/qkvW5teNkw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BHMieqUCIAA_Myp.jpg",
@@ -2915,7 +2909,7 @@ Grailbird.data.tweets_2013_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/capooti\/status\/320637908614782977\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/capooti\/status\/320637908614782977\/photo\/1",
         "indices" : [ 67, 89 ],
         "url" : "http:\/\/t.co\/qkvW5teNkw",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BHMieqUCIAA_Myp.jpg",

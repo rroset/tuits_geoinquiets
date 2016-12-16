@@ -9,7 +9,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "60556770",
       "id" : 60556770
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 13, 29 ],
       "id_str" : "90515658",
@@ -2687,12 +2687,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Q8M3SOnP",
-      "expanded_url" : "http:\/\/www.azti.es\/destacamos-home\/azti-tecnalia-presenta-la-cartografia-de-alta-precision-de-los-fondos-marinos-de-bilbao-y-donostia.html",
-      "display_url" : "azti.es\/destacamos-hom\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "243416277320888320",

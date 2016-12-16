@@ -339,7 +339,7 @@ Grailbird.data.tweets_2013_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/314806653541314560\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/314806653541314560\/photo\/1",
       "indices" : [ 40, 62 ],
       "url" : "http:\/\/t.co\/n3EzDI3azV",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BF5q-8WCcAAEv1o.jpg",
@@ -731,20 +731,11 @@ Grailbird.data.tweets_2013_03 =
       "indices" : [ 115, 126 ],
       "id_str" : "1229520205",
       "id" : 1229520205
-    }, {
-      "name" : "Geo Inquiets",
-      "screen_name" : "geoinquiets",
-      "indices" : [ 139, 140 ],
-      "id_str" : "248286851",
-      "id" : 248286851
     } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Solsona",
       "indices" : [ 14, 22 ]
-    }, {
-      "text" : "apps",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 80, 102 ],
@@ -969,37 +960,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "21744554",
       "id" : 21744554
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/britishlibrary\/status\/313255774702940160\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/94Nn4Tirmn",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BFjod6dCMAEY-6G.jpg",
-      "id_str" : "313255774707134465",
-      "id" : 313255774707134465,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BFjod6dCMAEY-6G.jpg",
-      "sizes" : [ {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 610
-      }, {
-        "h" : 787,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 610
-      }, {
-        "h" : 446,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/94Nn4Tirmn"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "StPatricksDay",
       "indices" : [ 26, 40 ]
@@ -1014,7 +975,7 @@ Grailbird.data.tweets_2013_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/britishlibrary\/status\/313255774702940160\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/britishlibrary\/status\/313255774702940160\/photo\/1",
         "indices" : [ 104, 126 ],
         "url" : "http:\/\/t.co\/94Nn4Tirmn",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BFjod6dCMAEY-6G.jpg",
@@ -1431,12 +1392,7 @@ Grailbird.data.tweets_2013_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/7CWQWC1giD",
-      "expanded_url" : "http:\/\/www.mapaliterari.cat\/ca\/mapa\/espai\/729\/jacint-verdaguer\/camps-de-coll-de-palou?content_lang=ca",
-      "display_url" : "mapaliterari.cat\/ca\/mapa\/espai\/\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "312246600854552576",
@@ -2312,7 +2268,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "14291056",
       "id" : 14291056
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 82, 98 ],
       "id_str" : "90515658",
@@ -2740,37 +2696,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "378643551",
       "id" : 378643551
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GlobalEcoGuy\/status\/306414010532769792\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/fK37F5b3pc",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BECZ60yCMAANnNi.jpg",
-      "id_str" : "306414010541158400",
-      "id" : 306414010541158400,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BECZ60yCMAANnNi.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 338,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 1080,
-        "resize" : "fit",
-        "w" : 1920
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/fK37F5b3pc"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2788,7 +2714,7 @@ Grailbird.data.tweets_2013_03 =
         "id" : 378643551
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/GlobalEcoGuy\/status\/306414010532769792\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/GlobalEcoGuy\/status\/306414010532769792\/photo\/1",
         "indices" : [ 110, 132 ],
         "url" : "http:\/\/t.co\/fK37F5b3pc",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BECZ60yCMAANnNi.jpg",
@@ -2970,12 +2896,7 @@ Grailbird.data.tweets_2013_03 =
       "text" : "Interoperabilidad",
       "indices" : [ 64, 82 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/lc6KJ2c9Q1",
-      "expanded_url" : "http:\/\/www.boe.es\/boe\/dias\/2013\/03\/04\/pdfs\/BOE-A-2013-2380.pdf",
-      "display_url" : "boe.es\/boe\/dias\/2013\/\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "308915709046583297",
@@ -3392,7 +3313,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "1701371",
       "id" : 1701371
     }, {
-      "name" : "Ross Spencer",
+      "name" : "bit-ross spencer",
       "screen_name" : "beet_keeper",
       "indices" : [ 11, 23 ],
       "id_str" : "423208251",
@@ -3437,7 +3358,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "1701371",
       "id" : 1701371
     }, {
-      "name" : "Ross Spencer",
+      "name" : "bit-ross spencer",
       "screen_name" : "beet_keeper",
       "indices" : [ 24, 36 ],
       "id_str" : "423208251",
@@ -3691,7 +3612,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "1701371",
       "id" : 1701371
     }, {
-      "name" : "Ross Spencer",
+      "name" : "bit-ross spencer",
       "screen_name" : "beet_keeper",
       "indices" : [ 11, 23 ],
       "id_str" : "423208251",
@@ -4045,110 +3966,6 @@ Grailbird.data.tweets_2013_03 =
   "text" : "An amazing enlightening evening with @ericg and @jatorre Thank you guys ! We have to meet again...",
   "id" : 307277422192111617,
   "created_at" : "2013-02-28 23:53:41 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/307229279136141313\/photo\/1",
-      "indices" : [ 43, 65 ],
-      "url" : "http:\/\/t.co\/g5amuj58Dr",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BEN_Zs_CUAA3VEc.jpg",
-      "id_str" : "307229279140335616",
-      "id" : 307229279140335616,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BEN_Zs_CUAA3VEc.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1536,
-        "resize" : "fit",
-        "w" : 2048
-      } ],
-      "display_url" : "pic.twitter.com\/g5amuj58Dr"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "307229279136141313",
-  "text" : "I despr\u00E9s de les presentacions, i el sopar http:\/\/t.co\/g5amuj58Dr",
-  "id" : 307229279136141313,
-  "created_at" : "2013-02-28 20:42:23 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/307195024968388608\/photo\/1",
-      "indices" : [ 48, 70 ],
-      "url" : "http:\/\/t.co\/a9aYxO1Uau",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BENgP2RCEAAmow5.jpg",
-      "id_str" : "307195024972582912",
-      "id" : 307195024972582912,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BENgP2RCEAAmow5.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1536,
-        "resize" : "fit",
-        "w" : 2048
-      } ],
-      "display_url" : "pic.twitter.com\/a9aYxO1Uau"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "307195024968388608",
-  "text" : "Cartodb i Tilemill a Geoinquiets 3er aniversari http:\/\/t.co\/a9aYxO1Uau",
-  "id" : 307195024968388608,
-  "created_at" : "2013-02-28 18:26:16 +0000",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",

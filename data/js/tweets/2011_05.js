@@ -2444,26 +2444,4 @@ Grailbird.data.tweets_2011_05 =
     "id" : 248286851,
     "verified" : false
   }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "64407830035312640",
-  "text" : "Visualitzaci\u00F3 d'estructures de dades i algorismes\nhttps:\/\/5mins.wordpress.com\/2011\/04\/29\/data-structure-visualizations\/",
-  "id" : 64407830035312640,
-  "created_at" : "2011-04-30 19:16:37 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
 } ]

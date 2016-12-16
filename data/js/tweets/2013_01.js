@@ -280,37 +280,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/VortexBCN\/status\/294873106839900160\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/vfw5gkzm",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BBeZh0OCEAAl6c1.jpg",
-      "id_str" : "294873106848288768",
-      "id" : 294873106848288768,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BBeZh0OCEAAl6c1.jpg",
-      "sizes" : [ {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 600,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/vfw5gkzm"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "aerofoto",
       "indices" : [ 87, 96 ]
@@ -334,7 +304,7 @@ Grailbird.data.tweets_2013_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/VortexBCN\/status\/294873106839900160\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/VortexBCN\/status\/294873106839900160\/photo\/1",
         "indices" : [ 112, 132 ],
         "url" : "http:\/\/t.co\/vfw5gkzm",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BBeZh0OCEAAl6c1.jpg",
@@ -1390,7 +1360,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "SIGdeletras",
       "protected" : false,
       "id_str" : "224679591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000226116421\/106f6956b2ea236b46e593fac8a7c4f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738980679837483008\/SRlR-XQi_normal.jpg",
       "id" : 224679591,
       "verified" : false
     }
@@ -1774,10 +1744,10 @@ Grailbird.data.tweets_2013_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "The Hive",
       "screen_name" : "HiveData",
@@ -1822,11 +1792,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294199166631043072,
     "created_at" : "2013-01-23 21:45:21 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }
@@ -2486,13 +2456,7 @@ Grailbird.data.tweets_2013_01 =
       "id" : 184695922
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "androiddev",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "GDGBCN",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 107, 127 ],
       "url" : "http:\/\/t.co\/JC0Nn9LI",
@@ -2532,7 +2496,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "JMPergar",
       "protected" : false,
       "id_str" : "184695922",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725586789335990273\/Y90e1CEB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782507824584749056\/9-NUqOEz_normal.jpg",
       "id" : 184695922,
       "verified" : false
     }
@@ -2665,7 +2629,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "SIGdeletras",
       "protected" : false,
       "id_str" : "224679591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000226116421\/106f6956b2ea236b46e593fac8a7c4f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738980679837483008\/SRlR-XQi_normal.jpg",
       "id" : 224679591,
       "verified" : false
     }
@@ -3340,12 +3304,6 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 94, 107 ],
       "id_str" : "629996570",
       "id" : 629996570
-    }, {
-      "name" : "Geo Inquiets",
-      "screen_name" : "geoinquiets",
-      "indices" : [ 139, 140 ],
-      "id_str" : "248286851",
-      "id" : 248286851
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3354,9 +3312,6 @@ Grailbird.data.tweets_2013_01 =
     }, {
       "text" : "Android",
       "indices" : [ 48, 56 ]
-    }, {
-      "text" : "AndroidDev",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 108, 129 ],
@@ -4083,7 +4038,7 @@ Grailbird.data.tweets_2013_01 =
       "id" : 248286851
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/carlesbaiges\/status\/289694096916901888\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/carlesbaiges\/status\/289694096916901888\/photo\/1",
       "indices" : [ 88, 108 ],
       "url" : "http:\/\/t.co\/CbHeWPr9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BAUzPwyCcAACDrr.jpg",
@@ -4135,7 +4090,7 @@ Grailbird.data.tweets_2013_01 =
         "id" : 248286851
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/carlesbaiges\/status\/289694096916901888\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/carlesbaiges\/status\/289694096916901888\/photo\/1",
         "indices" : [ 70, 90 ],
         "url" : "http:\/\/t.co\/CbHeWPr9",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BAUzPwyCcAACDrr.jpg",
@@ -4508,7 +4463,7 @@ Grailbird.data.tweets_2013_01 =
     "urls" : [ {
       "indices" : [ 77, 97 ],
       "url" : "http:\/\/t.co\/UhLtmhN3",
-      "expanded_url" : "http:\/\/engineering.twitter.com\/2012\/08\/crowdsourced-data-analysis-with.html",
+      "expanded_url" : "https:\/\/engineering.twitter.com\/2012\/08\/crowdsourced-data-analysis-with.html",
       "display_url" : "engineering.twitter.com\/2012\/08\/crowds\u2026"
     } ]
   },
@@ -4638,7 +4593,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 3, 19 ],
       "id_str" : "90515658",
@@ -4675,7 +4630,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 288643232362020864,
     "created_at" : "2013-01-08 13:48:03 +0000",
     "user" : {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "protected" : false,
       "id_str" : "90515658",
@@ -4875,12 +4830,6 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 3, 14 ],
       "id_str" : "40224333",
       "id" : 40224333
-    }, {
-      "name" : "Patronal Cecot",
-      "screen_name" : "PatronalCecot",
-      "indices" : [ 139, 140 ],
-      "id_str" : "161251778",
-      "id" : 161251778
     } ],
     "media" : [ ],
     "hashtags" : [ ],

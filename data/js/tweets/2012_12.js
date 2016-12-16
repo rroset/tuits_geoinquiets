@@ -2517,7 +2517,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/279110396248485888\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/279110396248485888\/photo\/1",
       "indices" : [ 46, 66 ],
       "url" : "http:\/\/t.co\/fFgzAmhX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A9-ZbTYCcAA2Skt.jpg",
@@ -2818,7 +2818,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/278392611725795330\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/278392611725795330\/photo\/1",
       "indices" : [ 66, 86 ],
       "url" : "http:\/\/t.co\/gzvXCJa5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A90MmvqCYAAThVJ.jpg",
@@ -3283,7 +3283,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/277106597526904833\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/277106597526904833\/photo\/1",
       "indices" : [ 65, 85 ],
       "url" : "http:\/\/t.co\/8f0Yjujr",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A9h6-3bCIAApLO5.jpg",
@@ -3649,22 +3649,17 @@ Grailbird.data.tweets_2012_12 =
       "id" : 42936497
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 94, 102 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "geoinquietos",
       "indices" : [ 106, 119 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/6K3dFmhw",
-      "expanded_url" : "http:\/\/goo.gl\/JP0az",
-      "display_url" : "goo.gl\/JP0az"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "276315418984079360",
@@ -3680,10 +3675,10 @@ Grailbird.data.tweets_2012_12 =
         "id" : 42936497
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 73, 81 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -3962,10 +3957,10 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "Mapbox",
       "screen_name" : "Mapbox",
@@ -4010,11 +4005,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 276008980306878464,
     "created_at" : "2012-12-04 17:04:03 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }
@@ -4381,69 +4376,6 @@ Grailbird.data.tweets_2012_12 =
   "text" : "El mapa geol\u00F2gic USA en un sol lloc\nhttp:\/\/t.co\/CsKz5q9H",
   "id" : 275486880814993409,
   "created_at" : "2012-12-03 06:29:25 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "laWebDeLesCoses",
-      "indices" : [ 76, 92 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 55, 75 ],
-      "url" : "http:\/\/t.co\/5nqIWxp0",
-      "expanded_url" : "http:\/\/uxweek.com\/2012\/speakers\/tom-coates\/",
-      "display_url" : "uxweek.com\/2012\/speakers\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "274618136379158529",
-  "text" : "Computaci\u00F3 mundana i els dispositius connectats a casa\nhttp:\/\/t.co\/5nqIWxp0 #laWebDeLesCoses",
-  "id" : 274618136379158529,
-  "created_at" : "2012-11-30 20:57:20 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TN",
-      "screen_name" : "NWtravelnerd",
-      "indices" : [ 0, 13 ],
-      "id_str" : "415855197",
-      "id" : 415855197
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "274554062987489280",
-  "geo" : { },
-  "id_str" : "274565543799971840",
-  "in_reply_to_user_id" : 415855197,
-  "text" : "@NWtravelnerd nope, I'm on Android =)",
-  "id" : 274565543799971840,
-  "in_reply_to_status_id" : 274554062987489280,
-  "created_at" : "2012-11-30 17:28:21 +0000",
-  "in_reply_to_screen_name" : "NWtravelnerd",
-  "in_reply_to_user_id_str" : "415855197",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",

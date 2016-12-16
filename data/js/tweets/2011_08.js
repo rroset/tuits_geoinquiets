@@ -836,7 +836,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 0, 16 ],
       "id_str" : "90515658",
@@ -1584,7 +1584,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 0, 16 ],
       "id_str" : "90515658",
@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 0, 16 ],
       "id_str" : "90515658",
@@ -1750,28 +1750,6 @@ Grailbird.data.tweets_2011_08 =
   "text" : "Mapa de cerveses i productors de cervesa del m\u00F3n\nhttp:\/\/beermapping.com\/brewery-maps\/",
   "id" : 97957655041155073,
   "created_at" : "2011-08-01 09:11:39 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97774604352892929",
-  "text" : "Innovar i resoldre problemes, via crowdsourcing i consell de savis\nhttp:\/\/www.innocentive.com\/about-innocentive",
-  "id" : 97774604352892929,
-  "created_at" : "2011-07-31 21:04:16 +0000",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",

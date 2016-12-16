@@ -139,7 +139,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 362326410326577153,
@@ -576,7 +576,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 360771902022754305,
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 359721866346242049,
@@ -1089,12 +1089,7 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/eqYRydMttC",
-      "expanded_url" : "http:\/\/geoinformacio.blogspot.com\/2013\/07\/relleus-de-catalunya.html",
-      "display_url" : "geoinformacio.blogspot.com\/2013\/07\/relleu\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "359717781547134976",
@@ -1586,12 +1581,6 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 121, 135 ],
       "id_str" : "873392191",
       "id" : 873392191
-    }, {
-      "name" : "Geo Inquiets",
-      "screen_name" : "geoinquiets",
-      "indices" : [ 136, 140 ],
-      "id_str" : "248286851",
-      "id" : 248286851
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2207,19 +2196,14 @@ Grailbird.data.tweets_2013_07 =
       "id" : 17670761
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 41, 49 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/hFjIlDZqHz",
-      "expanded_url" : "http:\/\/cdb.io\/11QdDpv",
-      "display_url" : "cdb.io\/11QdDpv"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "356821032100827136",
@@ -2229,10 +2213,10 @@ Grailbird.data.tweets_2013_07 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 21, 29 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -3682,10 +3666,10 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "HERE maps",
       "screen_name" : "HEREmaps",
@@ -3694,10 +3678,10 @@ Grailbird.data.tweets_2013_07 =
       "id" : 1968813522
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 81, 89 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3722,10 +3706,10 @@ Grailbird.data.tweets_2013_07 =
         "id" : 1968813522
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 68, 76 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -3742,11 +3726,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 352068836490625025,
     "created_at" : "2013-07-02 14:18:46 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }

@@ -1,5 +1,59 @@
 Grailbird.data.tweets_2012_01 = 
  [ {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 56, 76 ],
+      "url" : "http:\/\/t.co\/qXscV8X6",
+      "expanded_url" : "http:\/\/scapetoad.choros.ch\/",
+      "display_url" : "scapetoad.choros.ch"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "164412199639584769",
+  "text" : "ScapeToad - cartogram software by the Choros laboratory http:\/\/t.co\/qXscV8X6",
+  "id" : 164412199639584769,
+  "created_at" : "2012-01-31 18:18:17 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 46, 66 ],
+      "url" : "http:\/\/t.co\/ToekVkan",
+      "expanded_url" : "http:\/\/j.mp\/ylPVqw",
+      "display_url" : "j.mp\/ylPVqw"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "164411654677856257",
+  "text" : "GPS Shoes Do Exactly What You\u2019d Think They Do http:\/\/t.co\/ToekVkan",
+  "id" : 164411654677856257,
+  "created_at" : "2012-01-31 18:16:07 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1626,7 +1680,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0410\u0440\u0442\u0435\u043C\u044C\u0435\u0432\r\n \u041E\u043D\u0443\u0444\u0440\u0438\u0439\r\n",
+      "name" : "\u0410\u0440\u0442\u0435\u043C\u044C\u0435\u0432   \u041E\u043D\u0443\u0444\u0440\u0438\u0439",
       "screen_name" : "thedatarepublic",
       "indices" : [ 61, 77 ],
       "id_str" : "2982699982",

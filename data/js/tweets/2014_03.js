@@ -218,7 +218,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "73224138",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620310628138246144\/TTItCAIW_normal.jpg",
       "id" : 73224138,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 450184409032171520,
@@ -250,12 +250,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/0iKEDqBVwR",
-      "expanded_url" : "https:\/\/a.tiles.mapbox.com\/v3\/enf.hl5bfmhn\/page.html?secure=1#15\/8.5612\/-10.1309",
-      "display_url" : "a.tiles.mapbox.com\/v3\/enf.hl5bfmh\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "449829492090232832",
@@ -317,12 +312,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/9Sacw2kZoU",
-      "expanded_url" : "http:\/\/zite.to\/1gnj8BB",
-      "display_url" : "zite.to\/1gnj8BB"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "449829426399031296",
@@ -382,37 +372,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "61853389",
       "id" : 61853389
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ericg\/status\/449666200889327617\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/bqcZi2nioC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bj2JBvxCAAAGjYe.jpg",
-      "id_str" : "449666200901910528",
-      "id" : 449666200901910528,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bj2JBvxCAAAGjYe.jpg",
-      "sizes" : [ {
-        "h" : 483,
-        "resize" : "fit",
-        "w" : 637
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 455,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 258,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 483,
-        "resize" : "fit",
-        "w" : 637
-      } ],
-      "display_url" : "pic.twitter.com\/bqcZi2nioC"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -430,7 +390,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 61853389
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ericg\/status\/449666200889327617\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ericg\/status\/449666200889327617\/photo\/1",
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/bqcZi2nioC",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Bj2JBvxCAAAGjYe.jpg",
@@ -473,7 +433,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "ericg",
       "protected" : false,
       "id_str" : "966871",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000092213776\/b02f671802a9578dddfccd7090d8f857_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767243049470562304\/1nmvrmiF_normal.jpg",
       "id" : 966871,
       "verified" : false
     }
@@ -505,37 +465,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "55236002",
       "id" : 55236002
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/mateo_verde\/status\/449272813363286016\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/DyYMP8e3fe",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BjwjPlBCUAA6nXt.jpg",
-      "id_str" : "449272813371674624",
-      "id" : 449272813371674624,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BjwjPlBCUAA6nXt.jpg",
-      "sizes" : [ {
-        "h" : 339,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1158,
-        "resize" : "fit",
-        "w" : 2048
-      }, {
-        "h" : 192,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 579,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/DyYMP8e3fe"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -553,7 +483,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 55236002
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/mateo_verde\/status\/449272813363286016\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/mateo_verde\/status\/449272813363286016\/photo\/1",
         "indices" : [ 118, 140 ],
         "url" : "http:\/\/t.co\/DyYMP8e3fe",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjwjPlBCUAA6nXt.jpg",
@@ -623,7 +553,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 60556770
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/oscarfonts\/status\/449462602822086656\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/oscarfonts\/status\/449462602822086656\/photo\/1",
       "indices" : [ 84, 106 ],
       "url" : "http:\/\/t.co\/DVSCbTcOgi",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BjzP2xJIIAACaVa.jpg",
@@ -667,7 +597,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/oscarfonts\/status\/449462602822086656\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/oscarfonts\/status\/449462602822086656\/photo\/1",
         "indices" : [ 68, 90 ],
         "url" : "http:\/\/t.co\/DVSCbTcOgi",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjzP2xJIIAACaVa.jpg",
@@ -938,12 +868,6 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 122, 134 ],
       "id_str" : "120181200",
       "id" : 120181200
-    }, {
-      "name" : "OSGeo",
-      "screen_name" : "OSGeo",
-      "indices" : [ 139, 140 ],
-      "id_str" : "18048862",
-      "id" : 18048862
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -955,9 +879,6 @@ Grailbird.data.tweets_2014_03 =
     }, {
       "text" : "WPS",
       "indices" : [ 117, 121 ]
-    }, {
-      "text" : "MapServer",
-      "indices" : [ 135, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 94, 116 ],
@@ -1245,18 +1166,9 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 3, 19 ],
       "id_str" : "238087633",
       "id" : 238087633
-    }, {
-      "name" : "UOC EIMT",
-      "screen_name" : "UOCeimt",
-      "indices" : [ 139, 140 ],
-      "id_str" : "862729148",
-      "id" : 862729148
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "siglibre8",
-      "indices" : [ 135, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1319,9 +1231,6 @@ Grailbird.data.tweets_2014_03 =
     "hashtags" : [ {
       "text" : "icgc",
       "indices" : [ 128, 133 ]
-    }, {
-      "text" : "siglibre8",
-      "indices" : [ 134, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -1443,7 +1352,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -1476,7 +1385,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 248286851
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/marc_torres_\/status\/449092098114211840\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/marc_torres_\/status\/449092098114211840\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/JOdnzmSHsA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bjt-4YJIUAA7Qo0.jpg",
@@ -1526,7 +1435,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 248286851
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/marc_torres_\/status\/449092098114211840\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/marc_torres_\/status\/449092098114211840\/photo\/1",
         "indices" : [ 86, 108 ],
         "url" : "http:\/\/t.co\/JOdnzmSHsA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Bjt-4YJIUAA7Qo0.jpg",
@@ -1605,9 +1514,6 @@ Grailbird.data.tweets_2014_03 =
     "hashtags" : [ {
       "text" : "JOSM",
       "indices" : [ 70, 75 ]
-    }, {
-      "text" : "openstreetmap",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 76, 99 ],
@@ -1669,19 +1575,14 @@ Grailbird.data.tweets_2014_03 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/FXaNZ7mj6w",
-      "expanded_url" : "http:\/\/cdb.io\/1fjzuXt",
-      "display_url" : "cdb.io\/1fjzuXt"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "448901115892236288",
@@ -1705,11 +1606,11 @@ Grailbird.data.tweets_2014_03 =
     "id" : 448859341106708480,
     "created_at" : "2014-03-26 16:29:40 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }
@@ -1980,12 +1881,6 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 52, 66 ],
       "id_str" : "17925320",
       "id" : 17925320
-    }, {
-      "name" : "NASA Landsat Program",
-      "screen_name" : "NASA_Landsat",
-      "indices" : [ 130, 140 ],
-      "id_str" : "219070649",
-      "id" : 219070649
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2038,7 +1933,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 448556203275468800,
@@ -2148,7 +2043,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 155992471
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/3DRobotics\/status\/448469730286792704\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/3DRobotics\/status\/448469730286792704\/photo\/1",
       "indices" : [ 57, 79 ],
       "url" : "http:\/\/t.co\/OPPuGurdot",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BjlI1_aCcAIJk9N.jpg",
@@ -2189,7 +2084,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/3DRobotics\/status\/448469730286792704\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/3DRobotics\/status\/448469730286792704\/photo\/1",
         "indices" : [ 41, 63 ],
         "url" : "http:\/\/t.co\/OPPuGurdot",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjlI1_aCcAIJk9N.jpg",
@@ -2232,7 +2127,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "3DRobotics",
       "protected" : false,
       "id_str" : "155992471",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587522803630342144\/q-H-gm3P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798264026799042560\/IL6SNAen_normal.jpg",
       "id" : 155992471,
       "verified" : true
     }
@@ -2624,11 +2519,6 @@ Grailbird.data.tweets_2014_03 =
       "url" : "http:\/\/t.co\/EkBm7GdE78",
       "expanded_url" : "http:\/\/bit.ly\/elhackaton-osm",
       "display_url" : "bit.ly\/elhackaton-osm"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/hWBylT1Rhl",
-      "expanded_url" : "https:\/\/gist.github.com\/jsanz\/9648322\/",
-      "display_url" : "gist.github.com\/jsanz\/9648322\/"
     } ]
   },
   "geo" : { },
@@ -2668,7 +2558,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -2695,7 +2585,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 22614266
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/OrdnanceSurvey\/status\/446735590768541697\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/OrdnanceSurvey\/status\/446735590768541697\/photo\/1",
       "indices" : [ 95, 117 ],
       "url" : "http:\/\/t.co\/OcJdrhSX0A",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BjMfpxlIMAAOD1y.png",
@@ -2744,7 +2634,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/OrdnanceSurvey\/status\/446735590768541697\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/OrdnanceSurvey\/status\/446735590768541697\/photo\/1",
         "indices" : [ 75, 97 ],
         "url" : "http:\/\/t.co\/OcJdrhSX0A",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjMfpxlIMAAOD1y.png",
@@ -2797,7 +2687,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "22614266",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625559948232126464\/Va02YQKv_normal.jpg",
       "id" : 22614266,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 447751249874911232,
@@ -2936,9 +2826,6 @@ Grailbird.data.tweets_2014_03 =
     "hashtags" : [ {
       "text" : "tilemill",
       "indices" : [ 117, 126 ]
-    }, {
-      "text" : "openstreetmap",
-      "indices" : [ 127, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 63, 85 ],
@@ -3069,7 +2956,7 @@ Grailbird.data.tweets_2014_03 =
       "id" : 16818499
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/oeon\/status\/446629642036711426\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/oeon\/status\/446629642036711426\/photo\/1",
       "indices" : [ 98, 120 ],
       "url" : "http:\/\/t.co\/pVlyTgCuM7",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BjK_Sv1CQAAI0LB.jpg",
@@ -3122,7 +3009,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 16818499
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/oeon\/status\/446629642036711426\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/oeon\/status\/446629642036711426\/photo\/1",
         "indices" : [ 85, 107 ],
         "url" : "http:\/\/t.co\/pVlyTgCuM7",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjK_Sv1CQAAI0LB.jpg",
@@ -3441,43 +3328,13 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TYC GIS Soluciones",
+      "name" : "TYC GIS Formaci\u00F3n",
       "screen_name" : "tycgis",
       "indices" : [ 3, 10 ],
       "id_str" : "574015988",
       "id" : 574015988
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tycgis\/status\/446258279925436416\/photo\/1",
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/0mwunmW85l",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BjFtioLIYAAOI8E.jpg",
-      "id_str" : "446258279753474048",
-      "id" : 446258279753474048,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BjFtioLIYAAOI8E.jpg",
-      "sizes" : [ {
-        "h" : 484,
-        "resize" : "fit",
-        "w" : 704
-      }, {
-        "h" : 484,
-        "resize" : "fit",
-        "w" : 704
-      }, {
-        "h" : 413,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 234,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/0mwunmW85l"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 104, 126 ],
@@ -3494,7 +3351,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/tycgis\/status\/446258279925436416\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/tycgis\/status\/446258279925436416\/photo\/1",
         "indices" : [ 115, 137 ],
         "url" : "http:\/\/t.co\/0mwunmW85l",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BjFtioLIYAAOI8E.jpg",
@@ -3538,7 +3395,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 446258279925436416,
     "created_at" : "2014-03-19 12:13:59 +0000",
     "user" : {
-      "name" : "TYC GIS Soluciones",
+      "name" : "TYC GIS Formaci\u00F3n",
       "screen_name" : "tycgis",
       "protected" : false,
       "id_str" : "574015988",
@@ -3578,12 +3435,6 @@ Grailbird.data.tweets_2014_03 =
     "hashtags" : [ {
       "text" : "Geogame",
       "indices" : [ 35, 43 ]
-    }, {
-      "text" : "cartographie",
-      "indices" : [ 127, 140 ]
-    }, {
-      "text" : "geomatique",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 90, 112 ],
@@ -3694,7 +3545,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "mccampanha",
       "protected" : false,
       "id_str" : "456012398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000023924642\/3d824f75e026b568e3106651a2654d81_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769208141473017856\/SjcoSP5V_normal.jpg",
       "id" : 456012398,
       "verified" : false
     }
@@ -4043,15 +3894,9 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 3, 19 ],
       "id_str" : "1299751884",
       "id" : 1299751884
-    }, {
-      "name" : "Ed Loach",
-      "screen_name" : "EdLoach",
-      "indices" : [ 139, 140 ],
-      "id_str" : "19068332",
-      "id" : 19068332
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/EdLoach\/status\/445209296394268672\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/EdLoach\/status\/445209296394268672\/photo\/1",
       "indices" : [ 115, 137 ],
       "url" : "http:\/\/t.co\/bTAv1C3ZG7",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bi2zfwHIUAEPwag.jpg",
@@ -4101,7 +3946,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 19068332
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/EdLoach\/status\/445209296394268672\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/EdLoach\/status\/445209296394268672\/photo\/1",
         "indices" : [ 94, 116 ],
         "url" : "http:\/\/t.co\/bTAv1C3ZG7",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Bi2zfwHIUAEPwag.jpg",
@@ -4368,37 +4213,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "297291136",
       "id" : 297291136
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/underdarkGIS\/status\/444577758765539328\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/VX47ii8faM",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bit1HapCAAAO2_c.png",
-      "id_str" : "444577758497079296",
-      "id" : 444577758497079296,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bit1HapCAAAO2_c.png",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 641,
-        "resize" : "fit",
-        "w" : 1304
-      }, {
-        "h" : 295,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 503,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 167,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/VX47ii8faM"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "OSM",
       "indices" : [ 63, 67 ]
@@ -4425,7 +4240,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 297291136
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/underdarkGIS\/status\/444577758765539328\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/underdarkGIS\/status\/444577758765539328\/photo\/1",
         "indices" : [ 116, 138 ],
         "url" : "http:\/\/t.co\/VX47ii8faM",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Bit1HapCAAAO2_c.png",
@@ -4477,7 +4292,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "underdarkGIS",
       "protected" : false,
       "id_str" : "311043334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615451338546122752\/pEcHyzsD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800622135920230400\/UiPvP_7S_normal.jpg",
       "id" : 311043334,
       "verified" : false
     }
@@ -4572,7 +4387,7 @@ Grailbird.data.tweets_2014_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/444524118411456513\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/444524118411456513\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/hg14WbtCKq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BitEVJzCMAEhxSE.jpg",
@@ -4637,12 +4452,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/3L0NslixV5",
-      "expanded_url" : "http:\/\/goo.gl\/afmbCP",
-      "display_url" : "goo.gl\/afmbCP"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "444492380042174464",
@@ -4672,11 +4482,11 @@ Grailbird.data.tweets_2014_03 =
     "id" : 444479346628390912,
     "created_at" : "2014-03-14 14:25:08 +0000",
     "user" : {
-      "name" : "Planet Labs Germany",
+      "name" : "BlackBridge",
       "screen_name" : "PlanetLabsGer",
       "protected" : false,
       "id_str" : "44898043",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730365265712537602\/x24x6YFH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742826324180377600\/b0IA9qpV_normal.jpg",
       "id" : 44898043,
       "verified" : false
     }
@@ -4896,10 +4706,10 @@ Grailbird.data.tweets_2014_03 =
       "id" : 36957716
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 131, 139 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4939,10 +4749,10 @@ Grailbird.data.tweets_2014_03 =
         "id" : 36957716
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 119, 127 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -5395,7 +5205,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 443484360277512192,
@@ -5554,37 +5364,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "124134761",
       "id" : 124134761
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Territori\/status\/443095869047316480\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/IbgwVpLJ71",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BiYxWGSCIAAQ5-X.jpg",
-      "id_str" : "443095869055705088",
-      "id" : 443095869055705088,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BiYxWGSCIAAQ5-X.jpg",
-      "sizes" : [ {
-        "h" : 713,
-        "resize" : "fit",
-        "w" : 982
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 713,
-        "resize" : "fit",
-        "w" : 982
-      }, {
-        "h" : 436,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/IbgwVpLJ71"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 109, 131 ],
@@ -5601,7 +5381,7 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Territori\/status\/443095869047316480\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Territori\/status\/443095869047316480\/photo\/1",
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/IbgwVpLJ71",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BiYxWGSCIAAQ5-X.jpg",
@@ -5682,10 +5462,10 @@ Grailbird.data.tweets_2014_03 =
       "id" : 11584672
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 111, 119 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -5708,10 +5488,10 @@ Grailbird.data.tweets_2014_03 =
         "id" : 11584672
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 99, 107 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -5851,12 +5631,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/fuh38fwxXP",
-      "expanded_url" : "http:\/\/www.ine.es\/censos2011_datos\/cen11_datos_resultados_seccen.htm",
-      "display_url" : "ine.es\/censos2011_dat\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "442755706471866368",
@@ -5896,7 +5671,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -6064,7 +5839,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 442120394498387968,
@@ -6090,12 +5865,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/XOuwkwsPtj",
-      "expanded_url" : "http:\/\/betaportal.icgc.cat",
-      "display_url" : "betaportal.icgc.cat"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "441977285835759616",
@@ -6317,37 +6087,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "83170609",
       "id" : 83170609
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geostarters\/status\/441470417706823681\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/RHjQRS9Jti",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BiBrAYLCMAAwTur.jpg",
-      "id_str" : "441470417715212288",
-      "id" : 441470417715212288,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BiBrAYLCMAAwTur.jpg",
-      "sizes" : [ {
-        "h" : 733,
-        "resize" : "fit",
-        "w" : 1157
-      }, {
-        "h" : 380,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 215,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 649,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/RHjQRS9Jti"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "geografia",
       "indices" : [ 123, 133 ]
@@ -6373,7 +6113,7 @@ Grailbird.data.tweets_2014_03 =
         "id" : 83170609
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/geostarters\/status\/441470417706823681\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/geostarters\/status\/441470417706823681\/photo\/1",
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/RHjQRS9Jti",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BiBrAYLCMAAwTur.jpg",
@@ -6643,10 +6383,10 @@ Grailbird.data.tweets_2014_03 =
       "id" : 1126242102
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 47, 55 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -6663,10 +6403,10 @@ Grailbird.data.tweets_2014_03 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 28, 36 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -6719,12 +6459,7 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/UOp0xiqXBI",
-      "expanded_url" : "https:\/\/github.com\/mapbox\/mbxmapkit",
-      "display_url" : "github.com\/mapbox\/mbxmapk\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "441304536599519232",
@@ -6758,7 +6493,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "incanus77",
       "protected" : false,
       "id_str" : "4765141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727722871963963392\/AAAqx_fq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761624278554906624\/V_GvVtyJ_normal.jpg",
       "id" : 4765141,
       "verified" : false
     }
@@ -6819,7 +6554,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }

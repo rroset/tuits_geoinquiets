@@ -410,7 +410,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 195605963347202048,
@@ -663,37 +663,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "248286851",
       "id" : 248286851
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/xurxosanz\/status\/195109471184355330\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/wdRAfVv5",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ArUrB8LCAAAoIK5.png",
-      "id_str" : "195109471192743936",
-      "id" : 195109471192743936,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ArUrB8LCAAAoIK5.png",
-      "sizes" : [ {
-        "h" : 393,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 671,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 223,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 687,
-        "resize" : "fit",
-        "w" : 1048
-      } ],
-      "display_url" : "pic.twitter.com\/wdRAfVv5"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -711,7 +681,7 @@ Grailbird.data.tweets_2012_04 =
         "id" : 248286851
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/xurxosanz\/status\/195109471184355330\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/xurxosanz\/status\/195109471184355330\/photo\/1",
         "indices" : [ 108, 128 ],
         "url" : "http:\/\/t.co\/wdRAfVv5",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/ArUrB8LCAAAoIK5.png",
@@ -754,7 +724,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -1475,7 +1445,7 @@ Grailbird.data.tweets_2012_04 =
     "urls" : [ {
       "indices" : [ 48, 68 ],
       "url" : "http:\/\/t.co\/67m55oeO",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2012\/04\/introducing-innovators-patent-agreement.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2012\/04\/introducing-innovators-patent-agreement.html",
       "display_url" : "blog.twitter.com\/2012\/04\/introd\u2026"
     } ]
   },
@@ -2108,12 +2078,6 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 3, 9 ],
       "id_str" : "178847419",
       "id" : 178847419
-    }, {
-      "name" : "OpenStreetMap Espa\u00F1a",
-      "screen_name" : "openstreetmapes",
-      "indices" : [ 139, 140 ],
-      "id_str" : "296144139",
-      "id" : 296144139
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2422,7 +2386,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "446931088",
       "id" : 446931088
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 17, 33 ],
       "id_str" : "90515658",
@@ -3171,11 +3135,6 @@ Grailbird.data.tweets_2012_04 =
       "url" : "http:\/\/t.co\/bMd8zxlL",
       "expanded_url" : "http:\/\/planet.osm.org\/gps",
       "display_url" : "planet.osm.org\/gps"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/CJALwfAv",
-      "expanded_url" : "http:\/\/www.flickr.com\/photos\/stevefaeembra\/7051613199\/",
-      "display_url" : "flickr.com\/photos\/stevefa\u2026"
     } ]
   },
   "geo" : { },
@@ -3282,7 +3241,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "temporalista",
       "protected" : false,
       "id_str" : "185632245",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511682761631887360\/m_hCR4Ce_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784390157940191232\/5ME6eTZN_normal.jpg",
       "id" : 185632245,
       "verified" : false
     }

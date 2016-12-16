@@ -549,7 +549,7 @@ Grailbird.data.tweets_2011_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/geoinquiets\/status\/139699700612866048\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/139699700612866048\/photo\/1",
       "indices" : [ 60, 80 ],
       "url" : "http:\/\/t.co\/Qd9KXmz4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AfBQIzaCIAA5yky.jpg",
@@ -1728,7 +1728,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 3, 19 ],
       "id_str" : "90515658",
@@ -1748,7 +1748,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137516793639092225",
   "text" : "RT @RealIvanSanchez: Me pregunto si #OpenData deber\u00EDa ser AAPP ofrece y ciudadanos usan, o bien ciudadanos piden y AAPP otorga. #OpenDataSev",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter (RealIvanSanchez)\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/github.com\/oysttyer\/oysttyer\" rel=\"nofollow\"\u003Eoysttyer (RealIvanSanchez)\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137488412524544000,
     "created_at" : "2011-11-18 11:12:46 +0000",
     "user" : {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "protected" : false,
       "id_str" : "90515658",
@@ -2133,9 +2133,6 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ {
       "text" : "feedback",
       "indices" : [ 104, 113 ]
-    }, {
-      "text" : "opendata",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 114, 134 ],
@@ -2521,10 +2518,7 @@ Grailbird.data.tweets_2011_11 =
       "id" : 228659781
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "MapServer",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 113, 133 ],
       "url" : "http:\/\/t.co\/22W1RO8h",
@@ -2588,10 +2582,7 @@ Grailbird.data.tweets_2011_11 =
       "id" : 52338276
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "vuelvaustedma\u00F1ana2",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },

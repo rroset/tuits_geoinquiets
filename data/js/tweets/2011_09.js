@@ -2451,7 +2451,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FOSS4G 2016",
+      "name" : "FOSS4G 2017",
       "screen_name" : "foss4g",
       "indices" : [ 3, 10 ],
       "id_str" : "14449583",
@@ -2484,11 +2484,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 113303659303022592,
     "created_at" : "2011-09-12 17:31:12 +0000",
     "user" : {
-      "name" : "FOSS4G 2016",
+      "name" : "FOSS4G 2017",
       "screen_name" : "foss4g",
       "protected" : false,
       "id_str" : "14449583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/650637792301699072\/jEQhsLG8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779351896817602562\/YXf-qdul_normal.jpg",
       "id" : 14449583,
       "verified" : false
     }
@@ -3150,7 +3150,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "jordigraells",
       "protected" : false,
       "id_str" : "18133020",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714457706019598337\/x9bQkQCf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776128545248645120\/CNh7f9nB_normal.jpg",
       "id" : 18133020,
       "verified" : false
     }
@@ -3338,7 +3338,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "edsu",
       "protected" : false,
       "id_str" : "14331818",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686487544188526592\/k4u-YEpT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803663094777974784\/jgMuBer0_normal.jpg",
       "id" : 14331818,
       "verified" : false
     }
@@ -3797,16 +3797,8 @@ Grailbird.data.tweets_2011_09 =
     "hashtags" : [ {
       "text" : "OSM",
       "indices" : [ 82, 86 ]
-    }, {
-      "text" : "SFD",
-      "indices" : [ 139, 140 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/AOfpNeH",
-      "expanded_url" : "http:\/\/www.konfraria.org\/SFD\/2011\/index.html#horari",
-      "display_url" : "konfraria.org\/SFD\/2011\/index\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "110972844816605184",

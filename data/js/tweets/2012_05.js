@@ -1,5 +1,172 @@
 Grailbird.data.tweets_2012_05 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CREAF",
+      "screen_name" : "CREAF_ecologia",
+      "indices" : [ 3, 18 ],
+      "id_str" : "381485762",
+      "id" : 381485762
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 112, 132 ],
+      "url" : "http:\/\/t.co\/OV3QXEJP",
+      "expanded_url" : "http:\/\/blog.creaf.cat\/?p=1223",
+      "display_url" : "blog.creaf.cat\/?p=1223"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "208279858751610880",
+  "text" : "RT @CREAF_ecologia: Presentaci\u00F3 Tesi Doctoral: Models de dades dels SIG a Internet. Aspectes te\u00F2rics i aplicats http:\/\/t.co\/OV3QXEJP",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 92, 112 ],
+        "url" : "http:\/\/t.co\/OV3QXEJP",
+        "expanded_url" : "http:\/\/blog.creaf.cat\/?p=1223",
+        "display_url" : "blog.creaf.cat\/?p=1223"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "208225391599558656",
+    "text" : "Presentaci\u00F3 Tesi Doctoral: Models de dades dels SIG a Internet. Aspectes te\u00F2rics i aplicats http:\/\/t.co\/OV3QXEJP",
+    "id" : 208225391599558656,
+    "created_at" : "2012-05-31 15:56:16 +0000",
+    "user" : {
+      "name" : "CREAF",
+      "screen_name" : "CREAF_ecologia",
+      "protected" : false,
+      "id_str" : "381485762",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1563785892\/Captura_normal.JPG",
+      "id" : 381485762,
+      "verified" : false
+    }
+  },
+  "id" : 208279858751610880,
+  "created_at" : "2012-05-31 19:32:42 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CrisisMappers",
+      "screen_name" : "CrisisMappers",
+      "indices" : [ 3, 17 ],
+      "id_str" : "106840674",
+      "id" : 106840674
+    }, {
+      "name" : "Patrick Meier",
+      "screen_name" : "PatrickMeier",
+      "indices" : [ 22, 35 ],
+      "id_str" : "16895951",
+      "id" : 16895951
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 102, 122 ],
+      "url" : "http:\/\/t.co\/5HhwHTJH",
+      "expanded_url" : "http:\/\/awe.sm\/5vsKd",
+      "display_url" : "awe.sm\/5vsKd"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "208279458459811841",
+  "text" : "RT @CrisisMappers: RT @PatrickMeier: The Future of Crisis Mapping? Full-Sized Arcade Pinball Machines http:\/\/t.co\/5HhwHTJH",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.twhirl.org\" rel=\"nofollow\"\u003ESeesmic twhirl\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Patrick Meier",
+        "screen_name" : "PatrickMeier",
+        "indices" : [ 3, 16 ],
+        "id_str" : "16895951",
+        "id" : 16895951
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 83, 103 ],
+        "url" : "http:\/\/t.co\/5HhwHTJH",
+        "expanded_url" : "http:\/\/awe.sm\/5vsKd",
+        "display_url" : "awe.sm\/5vsKd"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "208208464131002368",
+    "text" : "RT @PatrickMeier: The Future of Crisis Mapping? Full-Sized Arcade Pinball Machines http:\/\/t.co\/5HhwHTJH",
+    "id" : 208208464131002368,
+    "created_at" : "2012-05-31 14:49:00 +0000",
+    "user" : {
+      "name" : "CrisisMappers",
+      "screen_name" : "CrisisMappers",
+      "protected" : false,
+      "id_str" : "106840674",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823634625\/9_normal.PNG",
+      "id" : 106840674,
+      "verified" : false
+    }
+  },
+  "id" : 208279458459811841,
+  "created_at" : "2012-05-31 19:31:07 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "CitySourced",
+      "screen_name" : "CitySourced",
+      "indices" : [ 0, 12 ],
+      "id_str" : "71910572",
+      "id" : 71910572
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "208240208280420352",
+  "geo" : { },
+  "id_str" : "208278985245863937",
+  "in_reply_to_user_id" : 71910572,
+  "text" : "@CitySourced sorry? A spanish book? I don't get it =(",
+  "id" : 208278985245863937,
+  "in_reply_to_status_id" : 208240208280420352,
+  "created_at" : "2012-05-31 19:29:14 +0000",
+  "in_reply_to_screen_name" : "CitySourced",
+  "in_reply_to_user_id_str" : "71910572",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -663,12 +830,7 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/5EBY9jhw",
-      "expanded_url" : "http:\/\/bit.ly\/xirivella-osm-201205",
-      "display_url" : "bit.ly\/xirivella-osm-\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "205958419839070208",
@@ -696,7 +858,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "xurxosanz",
       "protected" : false,
       "id_str" : "14291056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713669582511321088\/VCJMtmHs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767765768394141696\/QJGVT6Mb_normal.jpg",
       "id" : 14291056,
       "verified" : false
     }
@@ -743,7 +905,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 62, 78 ],
       "id_str" : "90515658",
@@ -868,12 +1030,7 @@ Grailbird.data.tweets_2012_05 =
       "text" : "Cartoteca",
       "indices" : [ 120, 130 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/ZarE68mG",
-      "expanded_url" : "http:\/\/www.icc.cat\/cat\/Home-ICC\/Recerca-i-docencia\/Esdeveniments\/Documentacio-de-jornades\/Any-2012",
-      "display_url" : "icc.cat\/cat\/Home-ICC\/R\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "205674993097519105",
@@ -2580,10 +2737,10 @@ Grailbird.data.tweets_2012_05 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     }, {
       "name" : "javi santana",
       "screen_name" : "javisantana",
@@ -2592,10 +2749,10 @@ Grailbird.data.tweets_2012_05 =
       "id" : 15702706
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 36, 44 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2625,10 +2782,10 @@ Grailbird.data.tweets_2012_05 =
         "id" : 15702706
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 23, 31 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2650,11 +2807,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 202766501839773696,
     "created_at" : "2012-05-16 14:24:35 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }
@@ -2778,10 +2935,7 @@ Grailbird.data.tweets_2012_05 =
       "id" : 147493361
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "openstreetmap",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 113, 133 ],
       "url" : "http:\/\/t.co\/kYHbJkJ7",
@@ -3158,13 +3312,7 @@ Grailbird.data.tweets_2012_05 =
       "id" : 242364994
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "bicibcn",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "bicicat",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 112, 132 ],
       "url" : "http:\/\/t.co\/zouwQYzi",
@@ -4155,7 +4303,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "diego_gon",
       "protected" : false,
       "id_str" : "111561268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709291741619339264\/p6fM-Juj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749728970699046912\/B8qWQgqR_normal.jpg",
       "id" : 111561268,
       "verified" : false
     }

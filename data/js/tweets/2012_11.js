@@ -5,6 +5,69 @@ Grailbird.data.tweets_2012_11 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
+      "text" : "laWebDeLesCoses",
+      "indices" : [ 76, 92 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 55, 75 ],
+      "url" : "http:\/\/t.co\/5nqIWxp0",
+      "expanded_url" : "http:\/\/uxweek.com\/2012\/speakers\/tom-coates\/",
+      "display_url" : "uxweek.com\/2012\/speakers\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "274618136379158529",
+  "text" : "Computaci\u00F3 mundana i els dispositius connectats a casa\nhttp:\/\/t.co\/5nqIWxp0 #laWebDeLesCoses",
+  "id" : 274618136379158529,
+  "created_at" : "2012-11-30 20:57:20 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TN",
+      "screen_name" : "NWtravelnerd",
+      "indices" : [ 0, 13 ],
+      "id_str" : "415855197",
+      "id" : 415855197
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "274554062987489280",
+  "geo" : { },
+  "id_str" : "274565543799971840",
+  "in_reply_to_user_id" : 415855197,
+  "text" : "@NWtravelnerd nope, I'm on Android =)",
+  "id" : 274565543799971840,
+  "in_reply_to_status_id" : 274554062987489280,
+  "created_at" : "2012-11-30 17:28:21 +0000",
+  "in_reply_to_screen_name" : "NWtravelnerd",
+  "in_reply_to_user_id_str" : "415855197",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
       "text" : "itsFridayLink",
       "indices" : [ 62, 76 ]
     } ],
@@ -1609,7 +1672,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 56, 72 ],
       "id_str" : "90515658",
@@ -1687,7 +1750,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14291056",
       "id" : 14291056
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 32, 48 ],
       "id_str" : "90515658",
@@ -1955,37 +2018,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "248286851",
       "id" : 248286851
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/carlesbaiges\/status\/269111344400306176\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/3AfnqvmE",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7wTV4iCEAExLDO.jpg",
-      "id_str" : "269111344408694785",
-      "id" : 269111344408694785,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7wTV4iCEAExLDO.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 2448,
-        "resize" : "fit",
-        "w" : 3264
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/3AfnqvmE"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2003,7 +2036,7 @@ Grailbird.data.tweets_2012_11 =
         "id" : 248286851
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/carlesbaiges\/status\/269111344400306176\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/carlesbaiges\/status\/269111344400306176\/photo\/1",
         "indices" : [ 109, 129 ],
         "url" : "http:\/\/t.co\/3AfnqvmE",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A7wTV4iCEAExLDO.jpg",
@@ -3402,18 +3435,6 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 3, 16 ],
       "id_str" : "297483793",
       "id" : 297483793
-    }, {
-      "name" : "Cibern\u00E0rium AjBCN",
-      "screen_name" : "elcibernarium",
-      "indices" : [ 139, 140 ],
-      "id_str" : "245377381",
-      "id" : 245377381
-    }, {
-      "name" : "Geo Inquiets",
-      "screen_name" : "geoinquiets",
-      "indices" : [ 139, 140 ],
-      "id_str" : "248286851",
-      "id" : 248286851
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3772,39 +3793,6 @@ Grailbird.data.tweets_2012_11 =
   "text" : "El mapa online dels temps pret\u00E8rits arriba a la v2\nhttp:\/\/t.co\/VC5xTakk",
   "id" : 264249652860297216,
   "created_at" : "2012-11-02 06:16:41 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Marc Puigvent\u00F3s",
-      "screen_name" : "MPuigventos",
-      "indices" : [ 0, 12 ],
-      "id_str" : "506441371",
-      "id" : 506441371
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "263696655457591296",
-  "geo" : { },
-  "id_str" : "263711031119998978",
-  "in_reply_to_user_id" : 506441371,
-  "text" : "@MPuigventos. Dades obertes de l'ajuntament de Barcelona",
-  "id" : 263711031119998978,
-  "in_reply_to_status_id" : 263696655457591296,
-  "created_at" : "2012-10-31 18:36:23 +0000",
-  "in_reply_to_screen_name" : "MPuigventos",
-  "in_reply_to_user_id_str" : "506441371",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",

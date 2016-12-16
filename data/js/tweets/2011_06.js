@@ -817,7 +817,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Y. Kellett",
+      "name" : "Ryan Y. Kellett \uD83D\uDC32",
       "screen_name" : "rkellett",
       "indices" : [ 3, 12 ],
       "id_str" : "6782382",
@@ -844,11 +844,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 83165587496370176,
     "created_at" : "2011-06-21 13:33:15 +0000",
     "user" : {
-      "name" : "Ryan Y. Kellett",
+      "name" : "Ryan Y. Kellett \uD83D\uDC32",
       "screen_name" : "rkellett",
       "protected" : false,
       "id_str" : "6782382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729829598477877248\/GDlj6hEM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745001468848046080\/ijSp01eZ_normal.jpg",
       "id" : 6782382,
       "verified" : true
     }

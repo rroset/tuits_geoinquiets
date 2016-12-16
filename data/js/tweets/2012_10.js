@@ -1,5 +1,38 @@
 Grailbird.data.tweets_2012_10 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marc Puigvent\u00F3s",
+      "screen_name" : "MPuigventos",
+      "indices" : [ 0, 12 ],
+      "id_str" : "506441371",
+      "id" : 506441371
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "263696655457591296",
+  "geo" : { },
+  "id_str" : "263711031119998978",
+  "in_reply_to_user_id" : 506441371,
+  "text" : "@MPuigventos. Dades obertes de l'ajuntament de Barcelona",
+  "id" : 263711031119998978,
+  "in_reply_to_status_id" : 263696655457591296,
+  "created_at" : "2012-10-31 18:36:23 +0000",
+  "in_reply_to_screen_name" : "MPuigventos",
+  "in_reply_to_user_id_str" : "506441371",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2076,8 +2109,8 @@ Grailbird.data.tweets_2012_10 =
       "name" : "ACTIG",
       "screen_name" : "actig",
       "indices" : [ 133, 139 ],
-      "id_str" : "230806583",
-      "id" : 230806583
+      "id_str" : "1489788414",
+      "id" : 1489788414
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3869,7 +3902,7 @@ Grailbird.data.tweets_2012_10 =
       "id" : 154616202
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Dragons8mycat\/status\/245511053381890048\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Dragons8mycat\/status\/245511053381890048\/photo\/1",
       "indices" : [ 73, 93 ],
       "url" : "http:\/\/t.co\/93d1UMul",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A2g7AJWCcAAzCnd.jpg",
@@ -3916,7 +3949,7 @@ Grailbird.data.tweets_2012_10 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Dragons8mycat\/status\/245511053381890048\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Dragons8mycat\/status\/245511053381890048\/photo\/1",
         "indices" : [ 54, 74 ],
         "url" : "http:\/\/t.co\/93d1UMul",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A2g7AJWCcAAzCnd.jpg",
@@ -3965,7 +3998,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Dragons8mycat",
       "protected" : false,
       "id_str" : "154616202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710209773959061504\/THMRRbWQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804733536813088772\/Fp4uK6FO_normal.jpg",
       "id" : 154616202,
       "verified" : false
     }

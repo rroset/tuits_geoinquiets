@@ -2983,7 +2983,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "jminguillona",
       "protected" : false,
       "id_str" : "91856307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538952713\/j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794124203264016384\/7rI7u-3f_normal.jpg",
       "id" : 91856307,
       "verified" : false
     }

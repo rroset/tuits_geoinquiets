@@ -71,12 +71,7 @@ Grailbird.data.tweets_2013_08 =
       "text" : "MapBox",
       "indices" : [ 12, 19 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 123, 144 ],
-      "url" : "http:\/\/t.co\/nnHP5x5ucT",
-      "expanded_url" : "http:\/\/www.mapbox.com\/blog\/london-happy-hour-2013\/",
-      "display_url" : "mapbox.com\/blog\/london-ha\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "372513154171166720",
@@ -139,7 +134,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 372513154171166720,
@@ -332,7 +327,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "274945717",
       "id" : 274945717
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 21, 37 ],
       "id_str" : "90515658",
@@ -360,7 +355,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+        "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
         "screen_name" : "RealIvanSanchez",
         "indices" : [ 4, 20 ],
         "id_str" : "90515658",
@@ -600,10 +595,7 @@ Grailbird.data.tweets_2013_08 =
       "id" : 43613423
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "newcartography",
-      "indices" : [ 131, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -997,12 +989,6 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 3, 19 ],
       "id_str" : "296144139",
       "id" : 296144139
-    }, {
-      "name" : "HipertextualSoftware",
-      "screen_name" : "Bitelia",
-      "indices" : [ 139, 140 ],
-      "id_str" : "3152005041",
-      "id" : 3152005041
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1205,7 +1191,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "55236002",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
       "id" : 55236002,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 367125463937720320,
@@ -1236,16 +1222,10 @@ Grailbird.data.tweets_2013_08 =
       "id" : 1616076026
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 128, 136 ],
-      "id_str" : "241079136",
-      "id" : 241079136
-    }, {
-      "name" : "Open Knowledge Intl",
-      "screen_name" : "OKFN",
-      "indices" : [ 139, 140 ],
-      "id_str" : "16143105",
-      "id" : 16143105
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1270,10 +1250,10 @@ Grailbird.data.tweets_2013_08 =
         "id" : 1616076026
       }, {
         "name" : "CartoDB",
-        "screen_name" : "cartoDB",
+        "screen_name" : "CartoDB",
         "indices" : [ 116, 124 ],
-        "id_str" : "241079136",
-        "id" : 241079136
+        "id_str" : "745305381698736132",
+        "id" : 745305381698736132
       }, {
         "name" : "Open Knowledge Intl",
         "screen_name" : "OKFN",
@@ -1366,13 +1346,7 @@ Grailbird.data.tweets_2013_08 =
       "id" : 278163053
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Llagunes",
-      "indices" : [ 134, 140 ]
-    }, {
-      "text" : "ValldeSiarb",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 84, 106 ],
       "url" : "http:\/\/t.co\/Mg85HzFK1V",
@@ -1445,10 +1419,10 @@ Grailbird.data.tweets_2013_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 3, 11 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1481,11 +1455,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 365515787429085185,
     "created_at" : "2013-08-08 16:52:09 +0000",
     "user" : {
-      "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "name" : "CARTO",
+      "screen_name" : "CARTO",
       "protected" : false,
       "id_str" : "241079136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615819212028776448\/UiwKa4gy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751340286488539137\/nYDKmRx1_normal.jpg",
       "id" : 241079136,
       "verified" : false
     }

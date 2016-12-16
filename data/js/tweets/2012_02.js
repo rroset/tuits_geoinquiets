@@ -1,5 +1,90 @@
 Grailbird.data.tweets_2012_02 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marc Garriga",
+      "screen_name" : "mgarrigap",
+      "indices" : [ 3, 13 ],
+      "id_str" : "16999848",
+      "id" : 16999848
+    }, {
+      "name" : "saleiva",
+      "screen_name" : "saleiva",
+      "indices" : [ 100, 108 ],
+      "id_str" : "29412160",
+      "id" : 29412160
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "visualizaci\u00F3n",
+      "indices" : [ 37, 51 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 110, 130 ],
+      "url" : "http:\/\/t.co\/jaug9rzs",
+      "expanded_url" : "http:\/\/media140.es\/2012\/02\/taller-de-visualizacion-y-analisis-de-datos-geoespaciales\/",
+      "display_url" : "media140.es\/2012\/02\/taller\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "174949981671796736",
+  "text" : "RT @mgarrigap: Interesante taller de #visualizaci\u00F3n y an\u00E1lisis de datos geoespaciales impartido por @saleiva: http:\/\/t.co\/jaug9rzs el 12 ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "saleiva",
+        "screen_name" : "saleiva",
+        "indices" : [ 85, 93 ],
+        "id_str" : "29412160",
+        "id" : 29412160
+      }, {
+        "name" : "media140",
+        "screen_name" : "media140cat",
+        "indices" : [ 128, 140 ],
+        "id_str" : "107232730",
+        "id" : 107232730
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "visualizaci\u00F3n",
+        "indices" : [ 22, 36 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 95, 115 ],
+        "url" : "http:\/\/t.co\/jaug9rzs",
+        "expanded_url" : "http:\/\/media140.es\/2012\/02\/taller-de-visualizacion-y-analisis-de-datos-geoespaciales\/",
+        "display_url" : "media140.es\/2012\/02\/taller\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "174895712885145600",
+    "text" : "Interesante taller de #visualizaci\u00F3n y an\u00E1lisis de datos geoespaciales impartido por @saleiva: http:\/\/t.co\/jaug9rzs el 12\/03 en @media140cat",
+    "id" : 174895712885145600,
+    "created_at" : "2012-02-29 16:36:02 +0000",
+    "user" : {
+      "name" : "Marc Garriga",
+      "screen_name" : "mgarrigap",
+      "protected" : false,
+      "id_str" : "16999848",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1607692604\/mgarrigap-theproject_normal.jpg",
+      "id" : 16999848,
+      "verified" : false
+    }
+  },
+  "id" : 174949981671796736,
+  "created_at" : "2012-02-29 20:11:40 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2124,7 +2209,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twittercounter.com\" rel=\"nofollow\"\u003EThe Counter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 104, 120 ],
       "id_str" : "90515658",
@@ -2771,7 +2856,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 0, 16 ],
       "id_str" : "90515658",
@@ -3625,11 +3710,6 @@ Grailbird.data.tweets_2012_02 =
       "url" : "http:\/\/t.co\/nJUqJzzN",
       "expanded_url" : "http:\/\/ow.ly\/8QHc7",
       "display_url" : "ow.ly\/8QHc7"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/pZSdWyuO",
-      "expanded_url" : "http:\/\/ow.ly\/i\/rmjD",
-      "display_url" : "ow.ly\/i\/rmjD"
     } ]
   },
   "geo" : { },
@@ -4095,7 +4175,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "albertpelias",
       "protected" : false,
       "id_str" : "8076462",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518381496026275840\/dIOzkyOZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794915741959131136\/SgK-goR6_normal.jpg",
       "id" : 8076462,
       "verified" : false
     }
@@ -4440,7 +4520,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "19563358",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571307490273284096\/Wh1c4geP_normal.jpeg",
       "id" : 19563358,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 164803148093997056,
@@ -4580,60 +4660,6 @@ Grailbird.data.tweets_2012_02 =
   "text" : "Imagina 2012: 3D, AR, ciutats, urbanisme, cartografia\nhttp:\/\/t.co\/aCODteLj",
   "id" : 164600662901014528,
   "created_at" : "2012-02-01 06:47:10 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 56, 76 ],
-      "url" : "http:\/\/t.co\/qXscV8X6",
-      "expanded_url" : "http:\/\/scapetoad.choros.ch\/",
-      "display_url" : "scapetoad.choros.ch"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "164412199639584769",
-  "text" : "ScapeToad - cartogram software by the Choros laboratory http:\/\/t.co\/qXscV8X6",
-  "id" : 164412199639584769,
-  "created_at" : "2012-01-31 18:18:17 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 46, 66 ],
-      "url" : "http:\/\/t.co\/ToekVkan",
-      "expanded_url" : "http:\/\/j.mp\/ylPVqw",
-      "display_url" : "j.mp\/ylPVqw"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "164411654677856257",
-  "text" : "GPS Shoes Do Exactly What You\u2019d Think They Do http:\/\/t.co\/ToekVkan",
-  "id" : 164411654677856257,
-  "created_at" : "2012-01-31 18:16:07 +0000",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",

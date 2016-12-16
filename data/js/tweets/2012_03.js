@@ -1201,9 +1201,6 @@ Grailbird.data.tweets_2012_03 =
     }, {
       "text" : "gis",
       "indices" : [ 123, 127 ]
-    }, {
-      "text" : "siglibre2012",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -1296,11 +1293,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "107689968",
       "id" : 107689968
     }, {
-      "name" : "UPC BarcelonaTech",
+      "name" : "BarcelonaTech",
       "screen_name" : "BarcelonaTech",
       "indices" : [ 15, 29 ],
-      "id_str" : "80625624",
-      "id" : 80625624
+      "id_str" : "724902560629440512",
+      "id" : 724902560629440512
     }, {
       "name" : "EETAC-UPC",
       "screen_name" : "EETAC_UPC",
@@ -1330,11 +1327,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "UPC BarcelonaTech",
+        "name" : "BarcelonaTech",
         "screen_name" : "BarcelonaTech",
         "indices" : [ 1, 15 ],
-        "id_str" : "80625624",
-        "id" : 80625624
+        "id_str" : "724902560629440512",
+        "id" : 724902560629440512
       }, {
         "name" : "EETAC-UPC",
         "screen_name" : "EETAC_UPC",
@@ -1427,10 +1424,10 @@ Grailbird.data.tweets_2012_03 =
       "id" : 15331830
     }, {
       "name" : "CartoDB",
-      "screen_name" : "cartoDB",
+      "screen_name" : "CartoDB",
       "indices" : [ 14, 22 ],
-      "id_str" : "241079136",
-      "id" : 241079136
+      "id_str" : "745305381698736132",
+      "id" : 745305381698736132
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1731,7 +1728,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "424938804",
       "id" : 424938804
     }, {
-      "name" : "Iv\u00E1n S\u00E1nchez Ortega",
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
       "screen_name" : "RealIvanSanchez",
       "indices" : [ 94, 110 ],
       "id_str" : "90515658",
@@ -2233,12 +2230,7 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/04oKZ31X",
-      "expanded_url" : "http:\/\/bit.ly\/GAgqqf",
-      "display_url" : "bit.ly\/GAgqqf"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "182207225014661120",
@@ -3963,9 +3955,6 @@ Grailbird.data.tweets_2012_03 =
     }, {
       "text" : "GoogleMaps",
       "indices" : [ 81, 92 ]
-    }, {
-      "text" : "empleo",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -4002,7 +3991,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "Geographica_GS",
       "protected" : false,
       "id_str" : "342713300",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3471112256\/821e5ed8d7ab6133a4a9004e6b249f48_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758188824002498560\/xC-b8Ey9_normal.jpg",
       "id" : 342713300,
       "verified" : false
     }
@@ -4670,12 +4659,7 @@ Grailbird.data.tweets_2012_03 =
       "text" : "ICOG",
       "indices" : [ 33, 38 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/3Brsa76q",
-      "expanded_url" : "http:\/\/ow.ly\/9tJf8",
-      "display_url" : "ow.ly\/9tJf8"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "177133594777616384",
@@ -4708,7 +4692,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "62473078",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464363834677813248\/FEdubOHz_normal.jpeg",
       "id" : 62473078,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 177133594777616384,
@@ -4734,12 +4718,7 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/5jJFGYPb",
-      "expanded_url" : "http:\/\/scg.iec.cat\/",
-      "display_url" : "scg.iec.cat"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "177133508077174785",
@@ -5644,97 +5623,6 @@ Grailbird.data.tweets_2012_03 =
   "text" : "Mapa de Bogot\u00E0 http:\/\/t.co\/6NZFTH1B",
   "id" : 175104808099917825,
   "created_at" : "2012-03-01 06:26:54 +0000",
-  "user" : {
-    "name" : "Geo Inquiets",
-    "screen_name" : "geoinquiets",
-    "protected" : false,
-    "id_str" : "248286851",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
-    "id" : 248286851,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Marc Garriga",
-      "screen_name" : "mgarrigap",
-      "indices" : [ 3, 13 ],
-      "id_str" : "16999848",
-      "id" : 16999848
-    }, {
-      "name" : "saleiva",
-      "screen_name" : "saleiva",
-      "indices" : [ 100, 108 ],
-      "id_str" : "29412160",
-      "id" : 29412160
-    }, {
-      "name" : "media140",
-      "screen_name" : "media140cat",
-      "indices" : [ 139, 140 ],
-      "id_str" : "107232730",
-      "id" : 107232730
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "visualizaci\u00F3n",
-      "indices" : [ 37, 51 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 110, 130 ],
-      "url" : "http:\/\/t.co\/jaug9rzs",
-      "expanded_url" : "http:\/\/media140.es\/2012\/02\/taller-de-visualizacion-y-analisis-de-datos-geoespaciales\/",
-      "display_url" : "media140.es\/2012\/02\/taller\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "174949981671796736",
-  "text" : "RT @mgarrigap: Interesante taller de #visualizaci\u00F3n y an\u00E1lisis de datos geoespaciales impartido por @saleiva: http:\/\/t.co\/jaug9rzs el 12 ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "saleiva",
-        "screen_name" : "saleiva",
-        "indices" : [ 85, 93 ],
-        "id_str" : "29412160",
-        "id" : 29412160
-      }, {
-        "name" : "media140",
-        "screen_name" : "media140cat",
-        "indices" : [ 128, 140 ],
-        "id_str" : "107232730",
-        "id" : 107232730
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "visualizaci\u00F3n",
-        "indices" : [ 22, 36 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 95, 115 ],
-        "url" : "http:\/\/t.co\/jaug9rzs",
-        "expanded_url" : "http:\/\/media140.es\/2012\/02\/taller-de-visualizacion-y-analisis-de-datos-geoespaciales\/",
-        "display_url" : "media140.es\/2012\/02\/taller\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "174895712885145600",
-    "text" : "Interesante taller de #visualizaci\u00F3n y an\u00E1lisis de datos geoespaciales impartido por @saleiva: http:\/\/t.co\/jaug9rzs el 12\/03 en @media140cat",
-    "id" : 174895712885145600,
-    "created_at" : "2012-02-29 16:36:02 +0000",
-    "user" : {
-      "name" : "Marc Garriga",
-      "screen_name" : "mgarrigap",
-      "protected" : false,
-      "id_str" : "16999848",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1607692604\/mgarrigap-theproject_normal.jpg",
-      "id" : 16999848,
-      "verified" : false
-    }
-  },
-  "id" : 174949981671796736,
-  "created_at" : "2012-02-29 20:11:40 +0000",
   "user" : {
     "name" : "Geo Inquiets",
     "screen_name" : "geoinquiets",
