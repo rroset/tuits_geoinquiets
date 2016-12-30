@@ -4,6 +4,3752 @@ Grailbird.data.tweets_2016_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814706082862039041\/photo\/1",
+      "indices" : [ 71, 94 ],
+      "url" : "https:\/\/t.co\/UYLStrSHTo",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C05q3R0XEAEidfz.png",
+      "id_str" : "814706080509005825",
+      "id" : 814706080509005825,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C05q3R0XEAEidfz.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/UYLStrSHTo"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 47, 70 ],
+      "url" : "https:\/\/t.co\/K3zNi1qx8m",
+      "expanded_url" : "http:\/\/cartonerd.blogspot.com.es\/2016\/12\/favourite-maps-from-2016.html",
+      "display_url" : "cartonerd.blogspot.com.es\/2016\/12\/favour\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814706082862039041",
+  "text" : "Una altra  selecci\u00F3 dels millors mapes de 2016\nhttps:\/\/t.co\/K3zNi1qx8m https:\/\/t.co\/UYLStrSHTo",
+  "id" : 814706082862039041,
+  "created_at" : "2016-12-30 05:34:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814705833581965312\/photo\/1",
+      "indices" : [ 99, 122 ],
+      "url" : "https:\/\/t.co\/s8HOWl4dP2",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C05qoyNWQAAaObX.png",
+      "id_str" : "814705831505707008",
+      "id" : 814705831505707008,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C05qoyNWQAAaObX.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/s8HOWl4dP2"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 98 ],
+      "url" : "https:\/\/t.co\/NpswyCVxvk",
+      "expanded_url" : "http:\/\/www.elpuntavui.cat\/societat\/article\/-\/1032906-cartografies-per-millorar-el-mon.html",
+      "display_url" : "elpuntavui.cat\/societat\/artic\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814705833581965312",
+  "text" : "\"Cartografies per millorar el m\u00F3n\", esmorzar de ci\u00E8ncia entre ICGC i ACTIG\nhttps:\/\/t.co\/NpswyCVxvk https:\/\/t.co\/s8HOWl4dP2",
+  "id" : 814705833581965312,
+  "created_at" : "2016-12-30 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814705561103175680\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/3b2gg1jRdQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C05qY4bWQAErnTz.png",
+      "id_str" : "814705558297133057",
+      "id" : 814705558297133057,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C05qY4bWQAErnTz.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/3b2gg1jRdQ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/jqjuoEKhP7",
+      "expanded_url" : "http:\/\/www.pacha-cartographie.com\/sculptures-de-livres\/",
+      "display_url" : "pacha-cartographie.com\/sculptures-de-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814705561103175680",
+  "text" : "Els llibres esculpits com a paisatges de Guy Laramee, liter\u00E0riament topografia\nhttps:\/\/t.co\/jqjuoEKhP7 https:\/\/t.co\/3b2gg1jRdQ",
+  "id" : 814705561103175680,
+  "created_at" : "2016-12-30 05:31:56 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814705336061984769\/photo\/1",
+      "indices" : [ 125, 148 ],
+      "url" : "https:\/\/t.co\/H7Gmydtlw7",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C05qLVQW8AAvy06.png",
+      "id_str" : "814705325517500416",
+      "id" : 814705325517500416,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C05qLVQW8AAvy06.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/H7Gmydtlw7"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 101, 124 ],
+      "url" : "https:\/\/t.co\/qjGK0j1uxh",
+      "expanded_url" : "https:\/\/medium.com\/@FMORENOFDEZ\/los-superdialectos-del-espanol-global-5aa83b2e9d85#.nq2ebral4",
+      "display_url" : "medium.com\/@FMORENOFDEZ\/l\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814705336061984769",
+  "text" : "Els superdialectes de l'espa\u00F1ol en un mapa fet a partir de la investigaci\u00F3 amb tuits georeferenciats\nhttps:\/\/t.co\/qjGK0j1uxh https:\/\/t.co\/H7Gmydtlw7",
+  "id" : 814705336061984769,
+  "created_at" : "2016-12-30 05:31:03 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814705135918153728\/photo\/1",
+      "indices" : [ 126, 149 ],
+      "url" : "https:\/\/t.co\/klo2K0Fp8a",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C05qAHiXEAAn3n2.png",
+      "id_str" : "814705132856348672",
+      "id" : 814705132856348672,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C05qAHiXEAAn3n2.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/klo2K0Fp8a"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 102, 125 ],
+      "url" : "https:\/\/t.co\/H73PL9tct5",
+      "expanded_url" : "http:\/\/www.fundaciontelefonica.com\/arte_cultura\/publicaciones-listado\/pagina-item-publicaciones\/itempubli\/539\/",
+      "display_url" : "fundaciontelefonica.com\/arte_cultura\/p\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814705135918153728",
+  "text" : "\"Atlas de la lengua espa\u00F1ola\" 3a edici\u00F3, ple de recursos gr\u00E0fics, en desc\u00E0rrega lliure com PDF o Epub\nhttps:\/\/t.co\/H73PL9tct5 https:\/\/t.co\/klo2K0Fp8a",
+  "id" : 814705135918153728,
+  "created_at" : "2016-12-30 05:30:15 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anonymaps",
+      "screen_name" : "Anonymaps",
+      "indices" : [ 3, 13 ],
+      "id_str" : "37700132",
+      "id" : 37700132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 36, 59 ],
+      "url" : "https:\/\/t.co\/piFAtI330L",
+      "expanded_url" : "https:\/\/twitter.com\/simonwwriter\/status\/814512029327392769",
+      "display_url" : "twitter.com\/simonwwriter\/s\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814585208934723585",
+  "text" : "RT @Anonymaps: poor.f--king.mailman https:\/\/t.co\/piFAtI330L",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 21, 44 ],
+        "url" : "https:\/\/t.co\/piFAtI330L",
+        "expanded_url" : "https:\/\/twitter.com\/simonwwriter\/status\/814512029327392769",
+        "display_url" : "twitter.com\/simonwwriter\/s\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "814576757424660480",
+    "text" : "poor.f--king.mailman https:\/\/t.co\/piFAtI330L",
+    "id" : 814576757424660480,
+    "created_at" : "2016-12-29 21:00:07 +0000",
+    "user" : {
+      "name" : "Anonymaps",
+      "screen_name" : "Anonymaps",
+      "protected" : false,
+      "id_str" : "37700132",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3781509313\/0a7d943987673ba8e01c1e40aa97911d_normal.png",
+      "id" : 37700132,
+      "verified" : false
+    }
+  },
+  "id" : 814585208934723585,
+  "created_at" : "2016-12-29 21:33:42 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 66, 82 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    }, {
+      "name" : "Jorge Sanz",
+      "screen_name" : "xurxosanz",
+      "indices" : [ 87, 97 ],
+      "id_str" : "14291056",
+      "id" : 14291056
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814343447033344004\/photo\/1",
+      "indices" : [ 122, 145 ],
+      "url" : "https:\/\/t.co\/UKZo0rVxrW",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C00hDGZXgAAR8k2.png",
+      "id_str" : "814343444764262400",
+      "id" : 814343444764262400,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C00hDGZXgAAR8k2.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/UKZo0rVxrW"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 121 ],
+      "url" : "https:\/\/t.co\/xOUbhBHybU",
+      "expanded_url" : "https:\/\/pbs.twimg.com\/media\/C0RFDx-XAAAprq9.jpg",
+      "display_url" : "pbs.twimg.com\/media\/C0RFDx-X\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814343447033344004",
+  "text" : "Mapamundi est\u00E0tic dels atacs terroristes dels darrers 45 anys via @realivansanchez via @xurxosanz\nhttps:\/\/t.co\/xOUbhBHybU https:\/\/t.co\/UKZo0rVxrW",
+  "id" : 814343447033344004,
+  "created_at" : "2016-12-29 05:33:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814343193059856385\/photo\/1",
+      "indices" : [ 119, 142 ],
+      "url" : "https:\/\/t.co\/N5m7BpwT34",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C00g0ThXcAQfdxO.png",
+      "id_str" : "814343190589435908",
+      "id" : 814343190589435908,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C00g0ThXcAQfdxO.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/N5m7BpwT34"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/PT82KwCamh",
+      "expanded_url" : "https:\/\/medium.com\/uber-design\/crafting-data-driven-maps-b0835b620554#.hwv84unet",
+      "display_url" : "medium.com\/uber-design\/cr\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814343193059856385",
+  "text" : "Una breu explicaci\u00F3 del procediment i les eines que empra Uber per fer-se el seu estil de mapa\nhttps:\/\/t.co\/PT82KwCamh https:\/\/t.co\/N5m7BpwT34",
+  "id" : 814343193059856385,
+  "created_at" : "2016-12-29 05:32:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814342939971293184\/photo\/1",
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/AWpTmWzsPh",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C00gliOXAAAGFFp.png",
+      "id_str" : "814342936838209536",
+      "id" : 814342936838209536,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C00gliOXAAAGFFp.png",
+      "sizes" : [ {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/AWpTmWzsPh"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/fkjew3ibxy",
+      "expanded_url" : "http:\/\/www.goodlandproject.org\/",
+      "display_url" : "goodlandproject.org"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814342939971293184",
+  "text" : "Un projecte GIS per inventariar totes les terres de l'esgl\u00E8sia cat\u00F2lica arreu del m\u00F3n\nhttps:\/\/t.co\/fkjew3ibxy https:\/\/t.co\/AWpTmWzsPh",
+  "id" : 814342939971293184,
+  "created_at" : "2016-12-29 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 93, 109 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/814342712740683776\/photo\/1",
+      "indices" : [ 134, 157 ],
+      "url" : "https:\/\/t.co\/Dp8HD8xASP",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C00gYU2WQAA23ey.png",
+      "id_str" : "814342709909536768",
+      "id" : 814342709909536768,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C00gYU2WQAA23ey.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/Dp8HD8xASP"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/VWL6fdt2iU",
+      "expanded_url" : "http:\/\/journals.plos.org\/plosone\/article?id=info%3Adoi\/10.1371\/journal.pone.0166083",
+      "display_url" : "journals.plos.org\/plosone\/articl\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814342712740683776",
+  "text" : "La geografia econ\u00F2mica dels USA explica les megaregions estudiant 4 milions de trajectes via @realivansanchez\nhttps:\/\/t.co\/VWL6fdt2iU https:\/\/t.co\/Dp8HD8xASP",
+  "id" : 814342712740683776,
+  "created_at" : "2016-12-29 05:30:07 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813981035692228610\/photo\/1",
+      "indices" : [ 102, 125 ],
+      "url" : "https:\/\/t.co\/8cxEZ0vcPJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0vXb_OUsAAAoq3.png",
+      "id_str" : "813981033498456064",
+      "id" : 813981033498456064,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0vXb_OUsAAAoq3.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/8cxEZ0vcPJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 78, 101 ],
+      "url" : "https:\/\/t.co\/i80iQzmrPL",
+      "expanded_url" : "http:\/\/rue89.nouvelobs.com\/2016\/12\/22\/innovation-bretonne-camion-poubelle-prend-photos-265952",
+      "display_url" : "rue89.nouvelobs.com\/2016\/12\/22\/inn\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813981035692228610",
+  "text" : "C\u00E0meres als camions d'escombraries de la Bretanya per fer fotos per Mapillary https:\/\/t.co\/i80iQzmrPL https:\/\/t.co\/8cxEZ0vcPJ",
+  "id" : 813981035692228610,
+  "created_at" : "2016-12-28 05:32:56 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813980808163852289\/photo\/1",
+      "indices" : [ 121, 144 ],
+      "url" : "https:\/\/t.co\/KFobYw0dqI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0vXOuZWEAAXKlj.png",
+      "id_str" : "813980805642981376",
+      "id" : 813980805642981376,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0vXOuZWEAAXKlj.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/KFobYw0dqI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 97, 120 ],
+      "url" : "https:\/\/t.co\/FKVQurHiiP",
+      "expanded_url" : "http:\/\/electricitymap.tmrow.co\/",
+      "display_url" : "electricitymap.tmrow.co"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813980808163852289",
+  "text" : "Mapa en directe de les emissions de CO2 a Europa per generar electricitat, codi obert fet amb D3\nhttps:\/\/t.co\/FKVQurHiiP https:\/\/t.co\/KFobYw0dqI",
+  "id" : 813980808163852289,
+  "created_at" : "2016-12-28 05:32:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813980554878189568\/photo\/1",
+      "indices" : [ 130, 153 ],
+      "url" : "https:\/\/t.co\/WGdl2hq6bR",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0vW_-LXAAAOOEr.png",
+      "id_str" : "813980552181252096",
+      "id" : 813980552181252096,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0vW_-LXAAAOOEr.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/WGdl2hq6bR"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/SQy0hPP0by",
+      "expanded_url" : "http:\/\/wooden-ships.github.io\/",
+      "display_url" : "wooden-ships.github.io"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813980554878189568",
+  "text" : "Vaixells de fusta, una exploraci\u00F3 interactiva de l'activitat mar\u00EDtima de 1750 a 1850 amb diversos filtres\nhttps:\/\/t.co\/SQy0hPP0by https:\/\/t.co\/WGdl2hq6bR",
+  "id" : 813980554878189568,
+  "created_at" : "2016-12-28 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813980314087329792\/photo\/1",
+      "indices" : [ 119, 142 ],
+      "url" : "https:\/\/t.co\/z2XC1fT8kl",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0vWx9_WQAA2Y_X.png",
+      "id_str" : "813980311612702720",
+      "id" : 813980311612702720,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0vWx9_WQAA2Y_X.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/z2XC1fT8kl"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/5Ifh3d0anB",
+      "expanded_url" : "https:\/\/global-surface-water.appspot.com\/",
+      "display_url" : "global-surface-water.appspot.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813980314087329792",
+  "text" : "Explorador interactiu de les masses d'aigua i la seva distribuci\u00F3 temporal els darrers 32 anys\nhttps:\/\/t.co\/5Ifh3d0anB https:\/\/t.co\/z2XC1fT8kl",
+  "id" : 813980314087329792,
+  "created_at" : "2016-12-28 05:30:04 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel P. Huffman",
+      "screen_name" : "pinakographos",
+      "indices" : [ 3, 17 ],
+      "id_str" : "243497005",
+      "id" : 243497005
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/pinakographos\/status\/811251497262608384\/photo\/1",
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/DafExg97CR",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0IkMuFWIAI4729.jpg",
+      "id_str" : "811250683827593218",
+      "id" : 811250683827593218,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0IkMuFWIAI4729.jpg",
+      "sizes" : [ {
+        "h" : 982,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1007,
+        "resize" : "fit",
+        "w" : 1231
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1007,
+        "resize" : "fit",
+        "w" : 1231
+      }, {
+        "h" : 556,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/DafExg97CR"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "813708934594838528",
+  "text" : "RT @pinakographos: A handy guide to a pair of cartographic terms I made up. https:\/\/t.co\/DafExg97CR",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/pinakographos\/status\/811251497262608384\/photo\/1",
+        "indices" : [ 57, 80 ],
+        "url" : "https:\/\/t.co\/DafExg97CR",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0IkMuFWIAI4729.jpg",
+        "id_str" : "811250683827593218",
+        "id" : 811250683827593218,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0IkMuFWIAI4729.jpg",
+        "sizes" : [ {
+          "h" : 982,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1007,
+          "resize" : "fit",
+          "w" : 1231
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1007,
+          "resize" : "fit",
+          "w" : 1231
+        }, {
+          "h" : 556,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/DafExg97CR"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "811251497262608384",
+    "text" : "A handy guide to a pair of cartographic terms I made up. https:\/\/t.co\/DafExg97CR",
+    "id" : 811251497262608384,
+    "created_at" : "2016-12-20 16:46:43 +0000",
+    "user" : {
+      "name" : "Daniel P. Huffman",
+      "screen_name" : "pinakographos",
+      "protected" : false,
+      "id_str" : "243497005",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1316633717\/Twitter_normal.png",
+      "id" : 243497005,
+      "verified" : false
+    }
+  },
+  "id" : 813708934594838528,
+  "created_at" : "2016-12-27 11:31:42 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813618899367460864\/photo\/1",
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/mFks85gCfz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0qOE35UUAAqxme.png",
+      "id_str" : "813618897068773376",
+      "id" : 813618897068773376,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0qOE35UUAAqxme.png",
+      "sizes" : [ {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/mFks85gCfz"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/i8okgP1lCL",
+      "expanded_url" : "http:\/\/www.slate.com\/articles\/arts\/map_of_the_week\/2013\/05\/bob_dylan_map_every_place_mentioned_in_a_bob_dylan_song.html",
+      "display_url" : "slate.com\/articles\/arts\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813618899367460864",
+  "text" : "Mapa interactiu amb tots els llocs que apareixen a les can\u00E7ons de Bob Dylan\nhttps:\/\/t.co\/i8okgP1lCL https:\/\/t.co\/mFks85gCfz",
+  "id" : 813618899367460864,
+  "created_at" : "2016-12-27 05:33:56 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813618669905444865\/photo\/1",
+      "indices" : [ 122, 145 ],
+      "url" : "https:\/\/t.co\/m8cdhHZ2pw",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0qN3gDUoAQlVpO.png",
+      "id_str" : "813618667329986564",
+      "id" : 813618667329986564,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0qN3gDUoAQlVpO.png",
+      "sizes" : [ {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/m8cdhHZ2pw"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 121 ],
+      "url" : "https:\/\/t.co\/Sg68Ud2QZp",
+      "expanded_url" : "http:\/\/www.maproomblog.com\/2016\/12\/new-biography-of-17th-century-cartographer-john-ogilby\/",
+      "display_url" : "maproomblog.com\/2016\/12\/new-bi\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813618669905444865",
+  "text" : "La biografia del cart\u00F2graf escoc\u00E8s del segle XVII John Ogilby autor del mapa de carreteres angl\u00E8s\nhttps:\/\/t.co\/Sg68Ud2QZp https:\/\/t.co\/m8cdhHZ2pw",
+  "id" : 813618669905444865,
+  "created_at" : "2016-12-27 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813618395686039552\/photo\/1",
+      "indices" : [ 109, 132 ],
+      "url" : "https:\/\/t.co\/9r6wK0BFwD",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0qNnjBUQAE4qb0.png",
+      "id_str" : "813618393248972801",
+      "id" : 813618393248972801,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0qNnjBUQAE4qb0.png",
+      "sizes" : [ {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/9r6wK0BFwD"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/EahpLpiup0",
+      "expanded_url" : "http:\/\/seystic.com\/seys-ha-desarrollado-ide-andorra\/",
+      "display_url" : "seystic.com\/seys-ha-desarr\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813618395686039552",
+  "text" : "Actualitzada la IDE d'Andorra amb serveis, dades i desc\u00E0rregues, tot amb codi lliure\nhttps:\/\/t.co\/EahpLpiup0 https:\/\/t.co\/9r6wK0BFwD",
+  "id" : 813618395686039552,
+  "created_at" : "2016-12-27 05:31:56 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813618173073391616\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/byBnRqbmJP",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0qNajjXcAAM0yT.png",
+      "id_str" : "813618170053488640",
+      "id" : 813618170053488640,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0qNajjXcAAM0yT.png",
+      "sizes" : [ {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/byBnRqbmJP"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/ekRQv2Aa3E",
+      "expanded_url" : "http:\/\/retours.eu\/en\/37-gotthardbahn-posters\/",
+      "display_url" : "retours.eu\/en\/37-gotthard\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813618173073391616",
+  "text" : "La publicitat del t\u00FAnel de Sant Gotard al llarg dels temps, amb mapes inclosos\nhttps:\/\/t.co\/ekRQv2Aa3E https:\/\/t.co\/byBnRqbmJP",
+  "id" : 813618173073391616,
+  "created_at" : "2016-12-27 05:31:03 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 53, 69 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813617896719085568\/photo\/1",
+      "indices" : [ 94, 117 ],
+      "url" : "https:\/\/t.co\/2HPkFYaVJl",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0qNKgGXEAA6Zj4.png",
+      "id_str" : "813617894248615936",
+      "id" : 813617894248615936,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0qNKgGXEAA6Zj4.png",
+      "sizes" : [ {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 406,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/2HPkFYaVJl"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 70, 93 ],
+      "url" : "https:\/\/t.co\/S8MlsOegG4",
+      "expanded_url" : "http:\/\/lugaresimaginarios.es\/",
+      "display_url" : "lugaresimaginarios.es"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813617896719085568",
+  "text" : "Petit blog a Tumblr que recull llocs imaginaris, via @realivansanchez\nhttps:\/\/t.co\/S8MlsOegG4 https:\/\/t.co\/2HPkFYaVJl",
+  "id" : 813617896719085568,
+  "created_at" : "2016-12-27 05:29:57 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alexander Klink",
+      "screen_name" : "alech",
+      "indices" : [ 3, 9 ],
+      "id_str" : "16739226",
+      "id" : 16739226
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "813486291346034688",
+  "text" : "RT @alech: TIL: Pokemon Go users are editing\/vandalizing OpenStreetMap since it seems to use OSM data for spawn locations. m( https:\/\/t.co\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 115, 138 ],
+        "url" : "https:\/\/t.co\/LvCcTdCebt",
+        "expanded_url" : "https:\/\/lists.openstreetmap.org\/pipermail\/talk\/2016-December\/077243.html",
+        "display_url" : "lists.openstreetmap.org\/pipermail\/talk\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "813118298565054464",
+    "text" : "TIL: Pokemon Go users are editing\/vandalizing OpenStreetMap since it seems to use OSM data for spawn locations. m( https:\/\/t.co\/LvCcTdCebt",
+    "id" : 813118298565054464,
+    "created_at" : "2016-12-25 20:24:44 +0000",
+    "user" : {
+      "name" : "Alexander Klink",
+      "screen_name" : "alech",
+      "protected" : false,
+      "id_str" : "16739226",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/65073522\/twitter_auge_normal.png",
+      "id" : 16739226,
+      "verified" : false
+    }
+  },
+  "id" : 813486291346034688,
+  "created_at" : "2016-12-26 20:47:00 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jaime Crespo",
+      "screen_name" : "jynus",
+      "indices" : [ 3, 9 ],
+      "id_str" : "18305305",
+      "id" : 18305305
+    }, {
+      "name" : "OpenStreetMap",
+      "screen_name" : "openstreetmap",
+      "indices" : [ 63, 77 ],
+      "id_str" : "17925320",
+      "id" : 17925320
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "813305659240415232",
+  "text" : "RT @jynus: People laughed at me when I started contributing to @openstreetmap Now it's choice #1 of many official gov. agencies https:\/\/t.c\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "OpenStreetMap",
+        "screen_name" : "openstreetmap",
+        "indices" : [ 52, 66 ],
+        "id_str" : "17925320",
+        "id" : 17925320
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 117, 140 ],
+        "url" : "https:\/\/t.co\/W6T98X8agR",
+        "expanded_url" : "http:\/\/infocar.dgt.es\/etraffic\/",
+        "display_url" : "infocar.dgt.es\/etraffic\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "812629344837398528",
+    "text" : "People laughed at me when I started contributing to @openstreetmap Now it's choice #1 of many official gov. agencies https:\/\/t.co\/W6T98X8agR",
+    "id" : 812629344837398528,
+    "created_at" : "2016-12-24 12:01:48 +0000",
+    "user" : {
+      "name" : "Jaime Crespo",
+      "screen_name" : "jynus",
+      "protected" : false,
+      "id_str" : "18305305",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693754310954455040\/UWsArEiT_normal.jpg",
+      "id" : 18305305,
+      "verified" : false
+    }
+  },
+  "id" : 813305659240415232,
+  "created_at" : "2016-12-26 08:49:14 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813256267590463488\/photo\/1",
+      "indices" : [ 99, 122 ],
+      "url" : "https:\/\/t.co\/LpcgZH1UIi",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0lEQcMUUAIlFfG.jpg",
+      "id_str" : "813256256953536514",
+      "id" : 813256256953536514,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0lEQcMUUAIlFfG.jpg",
+      "sizes" : [ {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/LpcgZH1UIi"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 98 ],
+      "url" : "https:\/\/t.co\/js5xmOuCp9",
+      "expanded_url" : "https:\/\/c1.staticflickr.com\/9\/8174\/7972781526_576b40cac1_o.jpg",
+      "display_url" : "c1.staticflickr.com\/9\/8174\/7972781\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813256267590463488",
+  "text" : "Mapa de les cinc zones amb m\u00E9s pirateria mar\u00EDtima del m\u00F3n, dades fins 2012\nhttps:\/\/t.co\/js5xmOuCp9 https:\/\/t.co\/LpcgZH1UIi",
+  "id" : 813256267590463488,
+  "created_at" : "2016-12-26 05:32:58 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813256008969515008\/photo\/1",
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/9c6kE1hM19",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0lEB5EXcAAKtGK.png",
+      "id_str" : "813256007006777344",
+      "id" : 813256007006777344,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0lEB5EXcAAKtGK.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/9c6kE1hM19"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 94 ],
+      "url" : "https:\/\/t.co\/KyB9io3wFC",
+      "expanded_url" : "https:\/\/placesjournal.org\/article\/what-if-america-electoral-college-maps\/",
+      "display_url" : "placesjournal.org\/article\/what-i\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813256008969515008",
+  "text" : "Mapes imaginats i condicionals dels resultats de les eleccions als USA\nhttps:\/\/t.co\/KyB9io3wFC https:\/\/t.co\/9c6kE1hM19",
+  "id" : 813256008969515008,
+  "created_at" : "2016-12-26 05:31:56 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813255784360386560\/photo\/1",
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/cE6cjOFZXU",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0lD0uXXAAAGD0w.png",
+      "id_str" : "813255780795351040",
+      "id" : 813255780795351040,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0lD0uXXAAAGD0w.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/cE6cjOFZXU"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/SHkYOxltsw",
+      "expanded_url" : "http:\/\/geoexamples.com\/d3\/2016\/12\/19\/d3-raster-tools-docs.html",
+      "display_url" : "geoexamples.com\/d3\/2016\/12\/19\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813255784360386560",
+  "text" : "Un tutorial sobre com treballar amb r\u00E0sters a D3 per fer visualitzacions din\u00E0miques de dades\nhttps:\/\/t.co\/SHkYOxltsw https:\/\/t.co\/cE6cjOFZXU",
+  "id" : 813255784360386560,
+  "created_at" : "2016-12-26 05:31:03 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/813255560900603904\/photo\/1",
+      "indices" : [ 97, 120 ],
+      "url" : "https:\/\/t.co\/Qnu0H58dRn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0lDn0bWIAApjG3.png",
+      "id_str" : "813255559084384256",
+      "id" : 813255559084384256,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0lDn0bWIAApjG3.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/Qnu0H58dRn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/BC5rdtXzTy",
+      "expanded_url" : "http:\/\/geospatialtraininges.com\/2016\/05\/11\/tendencias-mercado-geotecnologico-analisis-casero\/",
+      "display_url" : "geospatialtraininges.com\/2016\/05\/11\/ten\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813255560900603904",
+  "text" : "Una an\u00E0lisi casolana de les tend\u00E8ncies en el mercat geo feta amb GTrends\nhttps:\/\/t.co\/BC5rdtXzTy https:\/\/t.co\/Qnu0H58dRn",
+  "id" : 813255560900603904,
+  "created_at" : "2016-12-26 05:30:09 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mapbox",
+      "screen_name" : "Mapbox",
+      "indices" : [ 3, 10 ],
+      "id_str" : "55236002",
+      "id" : 55236002
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 113, 136 ],
+      "url" : "https:\/\/t.co\/QkUgxKfE8q",
+      "expanded_url" : "http:\/\/buff.ly\/2i0smZ9",
+      "display_url" : "buff.ly\/2i0smZ9"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "813109887614013440",
+  "text" : "RT @Mapbox: The secret sauce for this data viz of New York's density: 3D features in GL JS + data-driven styling https:\/\/t.co\/QkUgxKfE8q ht\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Mapbox\/status\/813037593038295040\/photo\/1",
+        "indices" : [ 125, 148 ],
+        "url" : "https:\/\/t.co\/q2q5WsuEU4",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0h9YW3WEAAPTHa.jpg",
+        "id_str" : "813037590148419584",
+        "id" : 813037590148419584,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0h9YW3WEAAPTHa.jpg",
+        "sizes" : [ {
+          "h" : 821,
+          "resize" : "fit",
+          "w" : 1600
+        }, {
+          "h" : 821,
+          "resize" : "fit",
+          "w" : 1600
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 616,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/q2q5WsuEU4"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 101, 124 ],
+        "url" : "https:\/\/t.co\/QkUgxKfE8q",
+        "expanded_url" : "http:\/\/buff.ly\/2i0smZ9",
+        "display_url" : "buff.ly\/2i0smZ9"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "813037593038295040",
+    "text" : "The secret sauce for this data viz of New York's density: 3D features in GL JS + data-driven styling https:\/\/t.co\/QkUgxKfE8q https:\/\/t.co\/q2q5WsuEU4",
+    "id" : 813037593038295040,
+    "created_at" : "2016-12-25 15:04:02 +0000",
+    "user" : {
+      "name" : "Mapbox",
+      "screen_name" : "Mapbox",
+      "protected" : false,
+      "id_str" : "55236002",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614644332956549120\/W8KtsoeZ_normal.png",
+      "id" : 55236002,
+      "verified" : true
+    }
+  },
+  "id" : 813109887614013440,
+  "created_at" : "2016-12-25 19:51:18 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/812169361880481792\/photo\/1",
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/AJ4P3Fi76g",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0VnuqwXcAA0XTo.png",
+      "id_str" : "812169359259037696",
+      "id" : 812169359259037696,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0VnuqwXcAA0XTo.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/AJ4P3Fi76g"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/zuW1krPqje",
+      "expanded_url" : "http:\/\/www.atlasobscura.com\/articles\/how-millions-of-secret-silk-maps-helped-pows-escape-their-captors-in-wwii",
+      "display_url" : "atlasobscura.com\/articles\/how-m\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "812169361880481792",
+  "text" : "\"Escape maps\", els mapes impresos en seda de la WWII repartits per escapar dels nazis\nhttps:\/\/t.co\/zuW1krPqje https:\/\/t.co\/AJ4P3Fi76g",
+  "id" : 812169361880481792,
+  "created_at" : "2016-12-23 05:33:59 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/812169121504837632\/photo\/1",
+      "indices" : [ 99, 122 ],
+      "url" : "https:\/\/t.co\/n3DuL43MLX",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0VngtmXAAEU2GA.png",
+      "id_str" : "812169119504203777",
+      "id" : 812169119504203777,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0VngtmXAAEU2GA.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/n3DuL43MLX"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 98 ],
+      "url" : "https:\/\/t.co\/SCiBLM76OV",
+      "expanded_url" : "http:\/\/letters-sal.blogspot.com.es\/2016\/12\/a-better-elevation-model-by-integrating.html",
+      "display_url" : "letters-sal.blogspot.com.es\/2016\/12\/a-bett\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "812169121504837632",
+  "text" : "Un model millorat del terreny fet per combinaci\u00F3 de Lidar i imatges de UAV\nhttps:\/\/t.co\/SCiBLM76OV https:\/\/t.co\/n3DuL43MLX",
+  "id" : 812169121504837632,
+  "created_at" : "2016-12-23 05:33:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 78, 94 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/812168865371291648\/photo\/1",
+      "indices" : [ 119, 142 ],
+      "url" : "https:\/\/t.co\/oQPiZxxQ4k",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0VnRxvXcAAD3kS.png",
+      "id_str" : "812168862917685248",
+      "id" : 812168862917685248,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0VnRxvXcAAD3kS.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/oQPiZxxQ4k"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/PHLe4qLuRR",
+      "expanded_url" : "http:\/\/www.elindependiente.com\/economia\/2016\/12\/20\/carmena-destinara-40-millones-para-los-nuevos-42-kilometros-de-carriles-bici-en-2017\/",
+      "display_url" : "elindependiente.com\/economia\/2016\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "812168865371291648",
+  "text" : "Mapa dels 42 km de nous itineraris ciclistes per al 2017 a Madrid ciutat, via @realivansanchez\nhttps:\/\/t.co\/PHLe4qLuRR https:\/\/t.co\/oQPiZxxQ4k",
+  "id" : 812168865371291648,
+  "created_at" : "2016-12-23 05:32:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/812168618112909316\/photo\/1",
+      "indices" : [ 114, 137 ],
+      "url" : "https:\/\/t.co\/6wASKb0rqG",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0VnDYEUQAALy6h.png",
+      "id_str" : "812168615508066304",
+      "id" : 812168615508066304,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0VnDYEUQAALy6h.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/6wASKb0rqG"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 90, 113 ],
+      "url" : "https:\/\/t.co\/HItTUANIXh",
+      "expanded_url" : "http:\/\/www.nytimes.com\/interactive\/2016\/12\/21\/upshot\/Mapping-the-Shadows-of-New-York-City.html?_r=0",
+      "display_url" : "nytimes.com\/interactive\/20\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "812168618112909316",
+  "text" : "El mapa de les ombres de Nova York que projecten els edificis, un estudi de llum i foscor\nhttps:\/\/t.co\/HItTUANIXh https:\/\/t.co\/6wASKb0rqG",
+  "id" : 812168618112909316,
+  "created_at" : "2016-12-23 05:31:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/812168365951381504\/photo\/1",
+      "indices" : [ 120, 143 ],
+      "url" : "https:\/\/t.co\/yKjprDngZv",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0Vm0siXAAA7xjP.png",
+      "id_str" : "812168363304747008",
+      "id" : 812168363304747008,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0Vm0siXAAA7xjP.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/yKjprDngZv"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/Wn7kBRBATJ",
+      "expanded_url" : "http:\/\/www.unitar.org\/unosat\/node\/44\/2509",
+      "display_url" : "unitar.org\/unosat\/node\/44\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "812168365951381504",
+  "text" : "Mapa els edificis destru\u00EFts a la ciutat d'Alep a trav\u00E9s de la interpretaci\u00F3 d'imatges sat\u00E8l\u00B7lit\nhttps:\/\/t.co\/Wn7kBRBATJ https:\/\/t.co\/yKjprDngZv",
+  "id" : 812168365951381504,
+  "created_at" : "2016-12-23 05:30:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811806967517876225\/photo\/1",
+      "indices" : [ 92, 115 ],
+      "url" : "https:\/\/t.co\/vh5bimhNDJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0QeIhuW8AAOAh7.png",
+      "id_str" : "811806964674129920",
+      "id" : 811806964674129920,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0QeIhuW8AAOAh7.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/vh5bimhNDJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/MkCsAK6rw3",
+      "expanded_url" : "http:\/\/news.nationalgeographic.com\/2016\/12\/best-maps-cartography-2016\/",
+      "display_url" : "news.nationalgeographic.com\/2016\/12\/best-m\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811806967517876225",
+  "text" : "La selecci\u00F3 dels millors mapes de 2016 feta per National Geographic\nhttps:\/\/t.co\/MkCsAK6rw3 https:\/\/t.co\/vh5bimhNDJ",
+  "id" : 811806967517876225,
+  "created_at" : "2016-12-22 05:33:58 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811806729453375488\/photo\/1",
+      "indices" : [ 118, 141 ],
+      "url" : "https:\/\/t.co\/mfQtrCyYwe",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0Qd6nKWIAAa_eh.png",
+      "id_str" : "811806725615525888",
+      "id" : 811806725615525888,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0Qd6nKWIAAa_eh.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/mfQtrCyYwe"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 94, 117 ],
+      "url" : "https:\/\/t.co\/dcEsySfaV5",
+      "expanded_url" : "https:\/\/www.linkedin.com\/pulse\/its-fact-geographers-needed-leo-van-den-berg",
+      "display_url" : "linkedin.com\/pulse\/its-fact\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811806729453375488",
+  "text" : "Fan falta ge\u00F2grafs, i en \u00E0mbits aparentment llunyans com gesti\u00F3 del tr\u00E0nsit i les incid\u00E8ncies\nhttps:\/\/t.co\/dcEsySfaV5 https:\/\/t.co\/mfQtrCyYwe",
+  "id" : 811806729453375488,
+  "created_at" : "2016-12-22 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811806476796915712\/photo\/1",
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/9udKf5z4Wn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0Qdr8QWEAAExMJ.png",
+      "id_str" : "811806473579794432",
+      "id" : 811806473579794432,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0Qdr8QWEAAExMJ.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/9udKf5z4Wn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 72, 95 ],
+      "url" : "https:\/\/t.co\/53WKfwsCRz",
+      "expanded_url" : "http:\/\/contours.org.uk\/bathymetry\/ness\/3d\/",
+      "display_url" : "contours.org.uk\/bathymetry\/nes\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811806476796915712",
+  "text" : "Batimetria en 3D dels llacs anglesos, aqu\u00ED el Loch Ness (sense monstre)\nhttps:\/\/t.co\/53WKfwsCRz https:\/\/t.co\/9udKf5z4Wn",
+  "id" : 811806476796915712,
+  "created_at" : "2016-12-22 05:32:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811806225386115076\/photo\/1",
+      "indices" : [ 118, 141 ],
+      "url" : "https:\/\/t.co\/IJA5qCJqnt",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0QddU6XAAI3340.png",
+      "id_str" : "811806222500429826",
+      "id" : 811806222500429826,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0QddU6XAAI3340.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/IJA5qCJqnt"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 94, 117 ],
+      "url" : "https:\/\/t.co\/b18H5767Ow",
+      "expanded_url" : "http:\/\/www.agrotic.org\/blog\/wp-content\/uploads\/2016\/12\/02_performance_qgis_server.pdf",
+      "display_url" : "agrotic.org\/blog\/wp-conten\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811806225386115076",
+  "text" : "Estudi comparat del rendiment dels servidors de mapes, amb repositori Github per reprodu\u00EFr-ho\nhttps:\/\/t.co\/b18H5767Ow https:\/\/t.co\/IJA5qCJqnt",
+  "id" : 811806225386115076,
+  "created_at" : "2016-12-22 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 81, 97 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811806014894993408\/photo\/1",
+      "indices" : [ 122, 145 ],
+      "url" : "https:\/\/t.co\/7tNsYQ3UFO",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0QdRDqUQAAnOeH.png",
+      "id_str" : "811806011711307776",
+      "id" : 811806011711307776,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0QdRDqUQAAnOeH.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/7tNsYQ3UFO"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 121 ],
+      "url" : "https:\/\/t.co\/IzyCfroDpM",
+      "expanded_url" : "http:\/\/cartonerd.blogspot.com.es\/2016\/12\/cant-see-wood-for-trees.html",
+      "display_url" : "cartonerd.blogspot.com.es\/2016\/12\/cant-s\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811806014894993408",
+  "text" : "El problema de fer mapes a partir de conjunts de dades parcials o incomplets via @realivansanchez\nhttps:\/\/t.co\/IzyCfroDpM https:\/\/t.co\/7tNsYQ3UFO",
+  "id" : 811806014894993408,
+  "created_at" : "2016-12-22 05:30:11 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811444603731722240\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/RWgMEmxssQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0LUkLiWQAAsllk.png",
+      "id_str" : "811444600917344256",
+      "id" : 811444600917344256,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0LUkLiWQAAsllk.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/RWgMEmxssQ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/3ZINyRDj0g",
+      "expanded_url" : "http:\/\/ccaa.elpais.com\/ccaa\/2016\/12\/19\/catalunya\/1482137121_046797.html",
+      "display_url" : "ccaa.elpais.com\/ccaa\/2016\/12\/1\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811444603731722240",
+  "text" : "Mapa dels 131 bars i restaurants a Barcelona amb defici\u00E8ncies sanit\u00E0ries greus\nhttps:\/\/t.co\/3ZINyRDj0g https:\/\/t.co\/RWgMEmxssQ",
+  "id" : 811444603731722240,
+  "created_at" : "2016-12-21 05:34:04 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u269B\u269B\u269BIv\u00E1n S\u00E1nchez\u269B\u269B\u269B",
+      "screen_name" : "RealIvanSanchez",
+      "indices" : [ 80, 96 ],
+      "id_str" : "90515658",
+      "id" : 90515658
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811444343521366016\/photo\/1",
+      "indices" : [ 121, 144 ],
+      "url" : "https:\/\/t.co\/jPeXlDaFWp",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0LUVDuXEAERH72.png",
+      "id_str" : "811444341122207745",
+      "id" : 811444341122207745,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0LUVDuXEAERH72.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/jPeXlDaFWp"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 97, 120 ],
+      "url" : "https:\/\/t.co\/sdcepXKZz5",
+      "expanded_url" : "http:\/\/news.nationalgeographic.com\/2016\/12\/map-roadless-development-conservation\/",
+      "display_url" : "news.nationalgeographic.com\/2016\/12\/map-ro\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811444343521366016",
+  "text" : "Primer mapa del m\u00F3n de les \u00E0rees naturals sense acc\u00E9s per cam\u00ED o carreterea via @realivansanchez\nhttps:\/\/t.co\/sdcepXKZz5 https:\/\/t.co\/jPeXlDaFWp",
+  "id" : 811444343521366016,
+  "created_at" : "2016-12-21 05:33:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811444093733761024\/photo\/1",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/kujlAtg5SQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0LUGdLWQAA22ju.png",
+      "id_str" : "811444090256637952",
+      "id" : 811444090256637952,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0LUGdLWQAA22ju.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/kujlAtg5SQ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 82, 105 ],
+      "url" : "https:\/\/t.co\/pJbK7kP8Gd",
+      "expanded_url" : "http:\/\/pilotonline.com\/news\/local\/transportation\/people-like-that-tactile-feeling-how-and-why-virginia-road\/article_447f5896-5469-5823-8dbc-e2e44a3eb7d3.html",
+      "display_url" : "pilotonline.com\/news\/local\/tra\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811444093733761024",
+  "text" : "Com es fan encara ara els mapes de carreteres de Virg\u00EDnia, i qui hi ha al darrere\nhttps:\/\/t.co\/pJbK7kP8Gd https:\/\/t.co\/kujlAtg5SQ",
+  "id" : 811444093733761024,
+  "created_at" : "2016-12-21 05:32:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811443853022654465\/photo\/1",
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/bCkmTgpT5Z",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0LT4i8WQAAnSTP.jpg",
+      "id_str" : "811443851286167552",
+      "id" : 811443851286167552,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0LT4i8WQAAnSTP.jpg",
+      "sizes" : [ {
+        "h" : 409,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 409,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 409,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 409,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/bCkmTgpT5Z"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/KQsj92BBFo",
+      "expanded_url" : "https:\/\/twitter.com\/neogis_de\/status\/696078888561205249",
+      "display_url" : "twitter.com\/neogis_de\/stat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811443853022654465",
+  "text" : "Arcgis i Qgis comparats el 2014 en una tesi sobre eines per a la ordenaci\u00F3 territorial (PDF)\nhttps:\/\/t.co\/KQsj92BBFo https:\/\/t.co\/bCkmTgpT5Z",
+  "id" : 811443853022654465,
+  "created_at" : "2016-12-21 05:31:05 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811443587812642816\/photo\/1",
+      "indices" : [ 116, 139 ],
+      "url" : "https:\/\/t.co\/LUbhHgpw56",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0LTpEgUoAAROVR.png",
+      "id_str" : "811443585417519104",
+      "id" : 811443585417519104,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0LTpEgUoAAROVR.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/LUbhHgpw56"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 92, 115 ],
+      "url" : "https:\/\/t.co\/JEPNisxfGD",
+      "expanded_url" : "http:\/\/www.letelegramme.fr\/dataspot\/mouvements-de-population-quels-sont-les-departements-qui-se-bougent-le-plus-16-12-2016-11334399.php",
+      "display_url" : "letelegramme.fr\/dataspot\/mouve\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811443587812642816",
+  "text" : "Migracions internes a Fran\u00E7a: on viuen actualment els nascut a cada departament, dades 2013\nhttps:\/\/t.co\/JEPNisxfGD https:\/\/t.co\/LUbhHgpw56",
+  "id" : 811443587812642816,
+  "created_at" : "2016-12-21 05:30:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alasdair Rae",
+      "screen_name" : "undertheraedar",
+      "indices" : [ 3, 18 ],
+      "id_str" : "343928585",
+      "id" : 343928585
+    }, {
+      "name" : "figshare",
+      "screen_name" : "figshare",
+      "indices" : [ 38, 47 ],
+      "id_str" : "224631899",
+      "id" : 224631899
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "811273509662060546",
+  "text" : "RT @undertheraedar: I've just updated @figshare data repository page on megaregions - now includes subsets and QGIS style file: https:\/\/t.c\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "figshare",
+        "screen_name" : "figshare",
+        "indices" : [ 18, 27 ],
+        "id_str" : "224631899",
+        "id" : 224631899
+      }, {
+        "name" : "Garrett Dash Nelson",
+        "screen_name" : "en_dash",
+        "indices" : [ 132, 140 ],
+        "id_str" : "5866062",
+        "id" : 5866062
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/undertheraedar\/status\/811234538408001536\/photo\/1",
+        "indices" : [ 141, 164 ],
+        "url" : "https:\/\/t.co\/P9EjSK4XKy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0IVHbHXEAE0xxg.jpg",
+        "id_str" : "811234100162007041",
+        "id" : 811234100162007041,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0IVHbHXEAE0xxg.jpg",
+        "sizes" : [ {
+          "h" : 924,
+          "resize" : "fit",
+          "w" : 982
+        }, {
+          "h" : 924,
+          "resize" : "fit",
+          "w" : 982
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 924,
+          "resize" : "fit",
+          "w" : 982
+        } ],
+        "display_url" : "pic.twitter.com\/P9EjSK4XKy"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/undertheraedar\/status\/811234538408001536\/photo\/1",
+        "indices" : [ 141, 164 ],
+        "url" : "https:\/\/t.co\/P9EjSK4XKy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0IVIHIWIAYLR-c.jpg",
+        "id_str" : "811234111977299974",
+        "id" : 811234111977299974,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0IVIHIWIAYLR-c.jpg",
+        "sizes" : [ {
+          "h" : 825,
+          "resize" : "fit",
+          "w" : 1002
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 825,
+          "resize" : "fit",
+          "w" : 1002
+        }, {
+          "h" : 825,
+          "resize" : "fit",
+          "w" : 1002
+        }, {
+          "h" : 560,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/P9EjSK4XKy"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/undertheraedar\/status\/811234538408001536\/photo\/1",
+        "indices" : [ 141, 164 ],
+        "url" : "https:\/\/t.co\/P9EjSK4XKy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0IVIxvWIAEDrc4.jpg",
+        "id_str" : "811234123415166977",
+        "id" : 811234123415166977,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0IVIxvWIAEDrc4.jpg",
+        "sizes" : [ {
+          "h" : 514,
+          "resize" : "fit",
+          "w" : 993
+        }, {
+          "h" : 514,
+          "resize" : "fit",
+          "w" : 993
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 352,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 514,
+          "resize" : "fit",
+          "w" : 993
+        } ],
+        "display_url" : "pic.twitter.com\/P9EjSK4XKy"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 108, 131 ],
+        "url" : "https:\/\/t.co\/iUNXYRfv3K",
+        "expanded_url" : "https:\/\/figshare.com\/articles\/United_States_Commutes_and_Megaregions_data_for_GIS\/4110156",
+        "display_url" : "figshare.com\/articles\/Unite\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "811234538408001536",
+    "text" : "I've just updated @figshare data repository page on megaregions - now includes subsets and QGIS style file: https:\/\/t.co\/iUNXYRfv3K @en_dash https:\/\/t.co\/P9EjSK4XKy",
+    "id" : 811234538408001536,
+    "created_at" : "2016-12-20 15:39:20 +0000",
+    "user" : {
+      "name" : "Alasdair Rae",
+      "screen_name" : "undertheraedar",
+      "protected" : false,
+      "id_str" : "343928585",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796230874845081601\/HddBUUVd_normal.jpg",
+      "id" : 343928585,
+      "verified" : false
+    }
+  },
+  "id" : 811273509662060546,
+  "created_at" : "2016-12-20 18:14:12 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811081954875555841\/photo\/1",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/7H3QXziXR3",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0GKvQlW8AAsW_h.png",
+      "id_str" : "811081952413544448",
+      "id" : 811081952413544448,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0GKvQlW8AAsW_h.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/7H3QXziXR3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 82, 105 ],
+      "url" : "https:\/\/t.co\/pETmpBHhNy",
+      "expanded_url" : "http:\/\/earthobservatory.nasa.gov\/IOTD\/view.php?id=89261&src=eorss-iotd",
+      "display_url" : "earthobservatory.nasa.gov\/IOTD\/view.php?\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811081954875555841",
+  "text" : "Mapes de la velocitat de despla\u00E7ament del gel fets per an\u00E0lis d'imatges sat\u00E8l\u00B7lit\nhttps:\/\/t.co\/pETmpBHhNy https:\/\/t.co\/7H3QXziXR3",
+  "id" : 811081954875555841,
+  "created_at" : "2016-12-20 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811081684867235840\/photo\/1",
+      "indices" : [ 97, 120 ],
+      "url" : "https:\/\/t.co\/AAuTJzdLMk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0GKfipW8AAJcUz.png",
+      "id_str" : "811081682384252928",
+      "id" : 811081682384252928,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0GKfipW8AAJcUz.png",
+      "sizes" : [ {
+        "h" : 415,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 415,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 415,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 415,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/AAuTJzdLMk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/NlBrEMtxQ1",
+      "expanded_url" : "http:\/\/qz.com\/862325\/the-great-american-word-mapper\/",
+      "display_url" : "qz.com\/862325\/the-gre\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811081684867235840",
+  "text" : "Mapa de la distribuci\u00F3 geogr\u00E0fica de l'\u00FAs de fins a 100.000 mots als USA\nhttps:\/\/t.co\/NlBrEMtxQ1 https:\/\/t.co\/AAuTJzdLMk",
+  "id" : 811081684867235840,
+  "created_at" : "2016-12-20 05:31:57 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811081449252208640\/photo\/1",
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/H7ZVwibsbI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0GKR1NWgAATWgo.png",
+      "id_str" : "811081446848888832",
+      "id" : 811081446848888832,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0GKR1NWgAATWgo.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/H7ZVwibsbI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 69, 92 ],
+      "url" : "https:\/\/t.co\/rOIiTt9V98",
+      "expanded_url" : "http:\/\/carto.maps.arcgis.com\/apps\/CEWebViewer\/viewer.html?3dWebScene=b29b3a7794724081bc9e98999f5ac183",
+      "display_url" : "carto.maps.arcgis.com\/apps\/CEWebView\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811081449252208640",
+  "text" : "Uns quants mapes fets amb Lego i visualitzables en 3D amb CityEngine\nhttps:\/\/t.co\/rOIiTt9V98 https:\/\/t.co\/H7ZVwibsbI",
+  "id" : 811081449252208640,
+  "created_at" : "2016-12-20 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/811081206490136576\/photo\/1",
+      "indices" : [ 109, 132 ],
+      "url" : "https:\/\/t.co\/Jbe2R73LaT",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0GKDrrWIAEx7sy.png",
+      "id_str" : "811081203772170241",
+      "id" : 811081203772170241,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0GKDrrWIAEx7sy.png",
+      "sizes" : [ {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/Jbe2R73LaT"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/HnZBLe3yUO",
+      "expanded_url" : "https:\/\/image-store.slidesharecdn.com\/6425cf72-ef0c-4c80-92a7-4bcf1bd10c03-original.jpeg",
+      "display_url" : "image-store.slidesharecdn.com\/6425cf72-ef0c-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "811081206490136576",
+  "text" : "Mapa del m\u00F3n de l'automoci\u00F3, amb les ind\u00FAstries per continents i les seves relacions\nhttps:\/\/t.co\/HnZBLe3yUO https:\/\/t.co\/Jbe2R73LaT",
+  "id" : 811081206490136576,
+  "created_at" : "2016-12-20 05:30:03 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "How Things Work",
+      "screen_name" : "ThingsWork",
+      "indices" : [ 3, 14 ],
+      "id_str" : "2217099931",
+      "id" : 2217099931
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ThingsWork\/status\/810574739148337152\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/oOzhKsUbF1",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Cz-9bFPW8AA-cTu.jpg",
+      "id_str" : "810574730910691328",
+      "id" : 810574730910691328,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Cz-9bFPW8AA-cTu.jpg",
+      "sizes" : [ {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/oOzhKsUbF1"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "810855202211450881",
+  "text" : "RT @ThingsWork: This is a simple visualization behind the formula to calculate the surface of a sphere https:\/\/t.co\/oOzhKsUbF1",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ThingsWork\/status\/810574739148337152\/photo\/1",
+        "indices" : [ 87, 110 ],
+        "url" : "https:\/\/t.co\/oOzhKsUbF1",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Cz-9bFPW8AA-cTu.jpg",
+        "id_str" : "810574730910691328",
+        "id" : 810574730910691328,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Cz-9bFPW8AA-cTu.jpg",
+        "sizes" : [ {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        } ],
+        "display_url" : "pic.twitter.com\/oOzhKsUbF1"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "810574739148337152",
+    "text" : "This is a simple visualization behind the formula to calculate the surface of a sphere https:\/\/t.co\/oOzhKsUbF1",
+    "id" : 810574739148337152,
+    "created_at" : "2016-12-18 19:57:32 +0000",
+    "user" : {
+      "name" : "How Things Work",
+      "screen_name" : "ThingsWork",
+      "protected" : false,
+      "id_str" : "2217099931",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502166591027433472\/dSN8P3hG_normal.jpeg",
+      "id" : 2217099931,
+      "verified" : false
+    }
+  },
+  "id" : 810855202211450881,
+  "created_at" : "2016-12-19 14:31:59 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/810719821008617473\/photo\/1",
+      "indices" : [ 105, 128 ],
+      "url" : "https:\/\/t.co\/mKj18ebSaj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0BBYQYXcAA6pLL.png",
+      "id_str" : "810719817896521728",
+      "id" : 810719817896521728,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0BBYQYXcAA6pLL.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/mKj18ebSaj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 81, 104 ],
+      "url" : "https:\/\/t.co\/sYfax7RchS",
+      "expanded_url" : "https:\/\/citygeographics.org\/2016\/12\/14\/world-population-density-interactive-map\/",
+      "display_url" : "citygeographics.org\/2016\/12\/14\/wor\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "810719821008617473",
+  "text" : "Mapamundi interactiu de la densitat de poblaci\u00F3, fet amb les dades GHSL europees\nhttps:\/\/t.co\/sYfax7RchS https:\/\/t.co\/mKj18ebSaj",
+  "id" : 810719821008617473,
+  "created_at" : "2016-12-19 05:34:02 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/810719564518588416\/photo\/1",
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/jGD6zul2wW",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0BBJXlXgAAq9Fs.png",
+      "id_str" : "810719562132062208",
+      "id" : 810719562132062208,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0BBJXlXgAAq9Fs.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/jGD6zul2wW"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/0oOfpLqYoB",
+      "expanded_url" : "http:\/\/sigdeletras.com\/2016\/primeros-pasos-carto-builder-mapa-de-edificios-de-sevilla",
+      "display_url" : "sigdeletras.com\/2016\/primeros-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "810719564518588416",
+  "text" : "Exemple pr\u00E0ctic per analitzar dades d'edificis de Sevilla amb Carto Builder\nhttps:\/\/t.co\/0oOfpLqYoB https:\/\/t.co\/jGD6zul2wW",
+  "id" : 810719564518588416,
+  "created_at" : "2016-12-19 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/810719330367377409\/photo\/1",
+      "indices" : [ 111, 134 ],
+      "url" : "https:\/\/t.co\/sNCcqxuH2Q",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0BA7wEVIAAJB8t.png",
+      "id_str" : "810719328186212352",
+      "id" : 810719328186212352,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0BA7wEVIAAJB8t.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/sNCcqxuH2Q"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/HikzMG3yVV",
+      "expanded_url" : "http:\/\/transitmap.net\/post\/154410154545\/paris-omnibus-1830",
+      "display_url" : "transitmap.net\/post\/154410154\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "810719330367377409",
+  "text" : "Mapa antic de Paris de 1830 amb les l\u00EDnies d'\u00F3mnibus servides per carruatges i cavalls\nhttps:\/\/t.co\/HikzMG3yVV https:\/\/t.co\/sNCcqxuH2Q",
+  "id" : 810719330367377409,
+  "created_at" : "2016-12-19 05:32:05 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/810719062984683520\/photo\/1",
+      "indices" : [ 105, 128 ],
+      "url" : "https:\/\/t.co\/yPFd99cGG3",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0BAsI1WgAAAx_R.png",
+      "id_str" : "810719059956367360",
+      "id" : 810719059956367360,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0BAsI1WgAAAx_R.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/yPFd99cGG3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 81, 104 ],
+      "url" : "https:\/\/t.co\/9nDnYHp5k0",
+      "expanded_url" : "http:\/\/www.freyfogle.com\/post\/1481642272\/im-hiring",
+      "display_url" : "freyfogle.com\/post\/148164227\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "810719062984683520",
+  "text" : "Unes quantes ofertes laborals en el sector de les TIC, algunes amb component geo\nhttps:\/\/t.co\/9nDnYHp5k0 https:\/\/t.co\/yPFd99cGG3",
+  "id" : 810719062984683520,
+  "created_at" : "2016-12-19 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/810718839348559873\/photo\/1",
+      "indices" : [ 120, 143 ],
+      "url" : "https:\/\/t.co\/yZiRMWA2Hi",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0BAfJsVIAAJhkv.png",
+      "id_str" : "810718836848664576",
+      "id" : 810718836848664576,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0BAfJsVIAAJhkv.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/yZiRMWA2Hi"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/E0Naxdjso6",
+      "expanded_url" : "http:\/\/www.math.uwaterloo.ca\/tsp\/us\/index.html",
+      "display_url" : "math.uwaterloo.ca\/tsp\/us\/index.h\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "810718839348559873",
+  "text" : "La ruta \u00F3ptima (350mil km) per visitar els 50mil llocs hist\u00F2rics del registre nacional dels USA\nhttps:\/\/t.co\/E0Naxdjso6 https:\/\/t.co\/yZiRMWA2Hi",
+  "id" : 810718839348559873,
+  "created_at" : "2016-12-19 05:30:08 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Micha\u0142 Mackiewicz",
+      "screen_name" : "michalmacki",
+      "indices" : [ 3, 15 ],
+      "id_str" : "4846354492",
+      "id" : 4846354492
+    }, {
+      "name" : "Mapbox",
+      "screen_name" : "Mapbox",
+      "indices" : [ 64, 71 ],
+      "id_str" : "55236002",
+      "id" : 55236002
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/michalmacki\/status\/809372273790554112\/photo\/1",
+      "indices" : [ 120, 143 ],
+      "url" : "https:\/\/t.co\/2sawRfcigQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Czt3Yv7XgAUWirA.jpg",
+      "id_str" : "809371825109172229",
+      "id" : 809371825109172229,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Czt3Yv7XgAUWirA.jpg",
+      "sizes" : [ {
+        "h" : 1424,
+        "resize" : "fit",
+        "w" : 1766
+      }, {
+        "h" : 1424,
+        "resize" : "fit",
+        "w" : 1766
+      }, {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 968,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/2sawRfcigQ"
+    } ],
+    "hashtags" : [ {
+      "text" : "3D",
+      "indices" : [ 19, 22 ]
+    }, {
+      "text" : "dataviz",
+      "indices" : [ 23, 31 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "809784172638310400",
+  "text" : "RT @michalmacki: A #3D #dataviz of noise levels in a city using @Mapbox tools. MapboxGL &amp; vector tiles are awesome! https:\/\/t.co\/2sawRfcigQ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mapbox",
+        "screen_name" : "Mapbox",
+        "indices" : [ 47, 54 ],
+        "id_str" : "55236002",
+        "id" : 55236002
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/michalmacki\/status\/809372273790554112\/photo\/1",
+        "indices" : [ 103, 126 ],
+        "url" : "https:\/\/t.co\/2sawRfcigQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Czt3Yv7XgAUWirA.jpg",
+        "id_str" : "809371825109172229",
+        "id" : 809371825109172229,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Czt3Yv7XgAUWirA.jpg",
+        "sizes" : [ {
+          "h" : 1424,
+          "resize" : "fit",
+          "w" : 1766
+        }, {
+          "h" : 1424,
+          "resize" : "fit",
+          "w" : 1766
+        }, {
+          "h" : 548,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 968,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "display_url" : "pic.twitter.com\/2sawRfcigQ"
+      } ],
+      "hashtags" : [ {
+        "text" : "3D",
+        "indices" : [ 2, 5 ]
+      }, {
+        "text" : "dataviz",
+        "indices" : [ 6, 14 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "809372273790554112",
+    "text" : "A #3D #dataviz of noise levels in a city using @Mapbox tools. MapboxGL &amp; vector tiles are awesome! https:\/\/t.co\/2sawRfcigQ",
+    "id" : 809372273790554112,
+    "created_at" : "2016-12-15 12:19:22 +0000",
+    "user" : {
+      "name" : "Micha\u0142 Mackiewicz",
+      "screen_name" : "michalmacki",
+      "protected" : false,
+      "id_str" : "4846354492",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_0_normal.png",
+      "id" : 4846354492,
+      "verified" : false
+    }
+  },
+  "id" : 809784172638310400,
+  "created_at" : "2016-12-16 15:36:06 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809632638231343112\/photo\/1",
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/PHEH6Gt9gs",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Czxkl4zXcAEKG2a.png",
+      "id_str" : "809632635085615105",
+      "id" : 809632635085615105,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Czxkl4zXcAEKG2a.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/PHEH6Gt9gs"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/xKlVAOolpc",
+      "expanded_url" : "http:\/\/galileognss.eu\/galileo-to-go-live-on-thursday\/",
+      "display_url" : "galileognss.eu\/galileo-to-go-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "809632638231343112",
+  "text" : "Una data que semblava que no havia d'arribar: la posada en marxa de Galileo\nhttps:\/\/t.co\/xKlVAOolpc https:\/\/t.co\/PHEH6Gt9gs",
+  "id" : 809632638231343112,
+  "created_at" : "2016-12-16 05:33:57 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809632403606147072\/photo\/1",
+      "indices" : [ 105, 128 ],
+      "url" : "https:\/\/t.co\/O1wd46QfJr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CzxkYR2UcAAjusE.png",
+      "id_str" : "809632401290719232",
+      "id" : 809632401290719232,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CzxkYR2UcAAjusE.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 403,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/O1wd46QfJr"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 81, 104 ],
+      "url" : "https:\/\/t.co\/TrygoLk7Fn",
+      "expanded_url" : "https:\/\/whoishiring.io\/",
+      "display_url" : "whoishiring.io"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "809632403606147072",
+  "text" : "Totes les ofertes de treball del sector de la tecnologia en un mapa, gr\u00E0cies VPA\nhttps:\/\/t.co\/TrygoLk7Fn https:\/\/t.co\/O1wd46QfJr",
+  "id" : 809632403606147072,
+  "created_at" : "2016-12-16 05:33:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809632141155991552\/photo\/1",
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/PQXWR1HIsn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CzxkI7tXEAA6xGf.png",
+      "id_str" : "809632137649524736",
+      "id" : 809632137649524736,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CzxkI7tXEAA6xGf.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/PQXWR1HIsn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/erBxxO9oPA",
+      "expanded_url" : "https:\/\/www.ers.usda.gov\/amber-waves\/2016\/december\/using-the-ers-county-economic-types-to-explore-demographic-and-economic-trends-in-rural-areas\/",
+      "display_url" : "ers.usda.gov\/amber-waves\/20\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "809632141155991552",
+  "text" : "Mapa de tipologies dels comptats dels USA segons el tipus d'activitat econ\u00F2nimca predominant\nhttps:\/\/t.co\/erBxxO9oPA https:\/\/t.co\/PQXWR1HIsn",
+  "id" : 809632141155991552,
+  "created_at" : "2016-12-16 05:31:59 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809631898062516226\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/n4xgF9d8RU",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Czxj61bW8AA411T.jpg",
+      "id_str" : "809631895445237760",
+      "id" : 809631895445237760,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Czxj61bW8AA411T.jpg",
+      "sizes" : [ {
+        "h" : 424,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 424,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 424,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 424,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/n4xgF9d8RU"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/eBoNmAdoo6",
+      "expanded_url" : "https:\/\/www.acaps.org\/special-report\/crisis-overview-2016-humanitarian-trends-and-risks-2017",
+      "display_url" : "acaps.org\/special-report\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "809631898062516226",
+  "text" : "Informe de les crisis 2016 i tend\u00E8ncies i riscos per al 2017: no anem a millor\nhttps:\/\/t.co\/eBoNmAdoo6 https:\/\/t.co\/n4xgF9d8RU",
+  "id" : 809631898062516226,
+  "created_at" : "2016-12-16 05:31:01 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809631644592312320\/photo\/1",
+      "indices" : [ 122, 145 ],
+      "url" : "https:\/\/t.co\/AZoTHjbTjd",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CzxjsIBXgAAcE9X.png",
+      "id_str" : "809631642738458624",
+      "id" : 809631642738458624,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CzxjsIBXgAAcE9X.png",
+      "sizes" : [ {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 408,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/AZoTHjbTjd"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 121 ],
+      "url" : "https:\/\/t.co\/9Vky2C3Z7H",
+      "expanded_url" : "http:\/\/www.maptiler.com\/mobile\/",
+      "display_url" : "maptiler.com\/mobile\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "809631644592312320",
+  "text" : "GeoEditor, una app per m\u00F3bils que permet veure, annotar i capturar informaci\u00F3 sobre mapes offline\nhttps:\/\/t.co\/9Vky2C3Z7H https:\/\/t.co\/AZoTHjbTjd",
+  "id" : 809631644592312320,
+  "created_at" : "2016-12-16 05:30:00 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/geoinquiets\/status\/809270016398999554\/photo\/1",
       "indices" : [ 77, 100 ],
       "url" : "https:\/\/t.co\/3zW2xYaYop",

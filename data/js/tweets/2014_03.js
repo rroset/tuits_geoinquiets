@@ -3399,7 +3399,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "tycgis",
       "protected" : false,
       "id_str" : "574015988",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689386950751477761\/86ht4DIU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809406631758929920\/UoYW3bCb_normal.jpg",
       "id" : 574015988,
       "verified" : false
     }

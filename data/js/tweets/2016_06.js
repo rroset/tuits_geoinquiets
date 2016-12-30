@@ -3737,6 +3737,123 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Pepe Casado",
+      "screen_name" : "PCVillarcayo",
+      "indices" : [ 3, 16 ],
+      "id_str" : "166096213",
+      "id" : 166096213
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/PCVillarcayo\/status\/744538748570963968\/photo\/1",
+      "indices" : [ 33, 56 ],
+      "url" : "https:\/\/t.co\/03WMYetao8",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/ClUiBrbWIAAMOqx.jpg",
+      "id_str" : "744538725632319488",
+      "id" : 744538725632319488,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ClUiBrbWIAAMOqx.jpg",
+      "sizes" : [ {
+        "h" : 1884,
+        "resize" : "fit",
+        "w" : 1056
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 381
+      }, {
+        "h" : 1884,
+        "resize" : "fit",
+        "w" : 1056
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 673
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/03WMYetao8"
+    } ],
+    "hashtags" : [ {
+      "text" : "geomechero",
+      "indices" : [ 21, 32 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "744619027847340032",
+  "text" : "RT @PCVillarcayo: Un #geomechero https:\/\/t.co\/03WMYetao8",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/PCVillarcayo\/status\/744538748570963968\/photo\/1",
+        "indices" : [ 15, 38 ],
+        "url" : "https:\/\/t.co\/03WMYetao8",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/ClUiBrbWIAAMOqx.jpg",
+        "id_str" : "744538725632319488",
+        "id" : 744538725632319488,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ClUiBrbWIAAMOqx.jpg",
+        "sizes" : [ {
+          "h" : 1884,
+          "resize" : "fit",
+          "w" : 1056
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 381
+        }, {
+          "h" : 1884,
+          "resize" : "fit",
+          "w" : 1056
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 673
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "display_url" : "pic.twitter.com\/03WMYetao8"
+      } ],
+      "hashtags" : [ {
+        "text" : "geomechero",
+        "indices" : [ 3, 14 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "744538748570963968",
+    "text" : "Un #geomechero https:\/\/t.co\/03WMYetao8",
+    "id" : 744538748570963968,
+    "created_at" : "2016-06-19 14:34:05 +0000",
+    "user" : {
+      "name" : "Pepe Casado",
+      "screen_name" : "PCVillarcayo",
+      "protected" : false,
+      "id_str" : "166096213",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581776770803888128\/ZeeaWvvF_normal.jpg",
+      "id" : 166096213,
+      "verified" : false
+    }
+  },
+  "id" : 744619027847340032,
+  "created_at" : "2016-06-19 19:53:05 +0000",
+  "user" : {
+    "name" : "Geo Inquiets",
+    "screen_name" : "geoinquiets",
+    "protected" : false,
+    "id_str" : "248286851",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1291538233\/1024x1024_normal.png",
+    "id" : 248286851,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Fedex",
       "screen_name" : "Fedexxx96",
       "indices" : [ 3, 13 ],

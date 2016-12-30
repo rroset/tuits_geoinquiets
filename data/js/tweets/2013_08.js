@@ -964,7 +964,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "coverdorf",
       "protected" : false,
       "id_str" : "52319959",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419956628733980672\/P40dmuUO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813526025556504576\/qHmjOaO2_normal.jpg",
       "id" : 52319959,
       "verified" : false
     }

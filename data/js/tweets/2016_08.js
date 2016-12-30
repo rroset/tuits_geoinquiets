@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "2865404679",
       "id" : 2865404679
     }, {
-      "name" : "Claudio @ CDMX",
+      "name" : "Claudio @ Baja Sur",
       "screen_name" : "ccossio",
       "indices" : [ 11, 19 ],
       "id_str" : "20304727",
@@ -2589,7 +2589,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "iandees",
       "protected" : false,
       "id_str" : "1454501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662446736833716224\/BKhLBYxW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812452444508684289\/UwDSW0Gt_normal.jpg",
       "id" : 1454501,
       "verified" : false
     }

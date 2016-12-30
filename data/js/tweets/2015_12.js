@@ -5796,7 +5796,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "SIGLibreGirona",
       "protected" : false,
       "id_str" : "185599914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676375694587359237\/gO6ZAZMC_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810853678383038464\/hi6ujhHj_normal.jpg",
       "id" : 185599914,
       "verified" : false
     }
@@ -8692,7 +8692,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "Spatial_Punk",
       "protected" : false,
       "id_str" : "8363812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804091795663507456\/F_tGSFbN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814705036479459328\/QG86CbHN_normal.jpg",
       "id" : 8363812,
       "verified" : false
     }

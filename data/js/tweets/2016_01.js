@@ -2854,7 +2854,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "devongovett",
       "protected" : false,
       "id_str" : "15687937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/92153139\/item_6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812765322004443140\/PPaqFF07_normal.jpg",
       "id" : 15687937,
       "verified" : false
     }
@@ -8279,7 +8279,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slashgeo.org",
+      "name" : "Slashgeo",
       "screen_name" : "slashgeo",
       "indices" : [ 3, 12 ],
       "id_str" : "28441141",

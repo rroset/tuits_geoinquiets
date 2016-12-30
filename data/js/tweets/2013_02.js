@@ -312,7 +312,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "18690355",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519614073982312448\/e8GU2SUH_normal.jpeg",
       "id" : 18690355,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 307027706414002177,

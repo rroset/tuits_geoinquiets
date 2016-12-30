@@ -3998,7 +3998,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Dragons8mycat",
       "protected" : false,
       "id_str" : "154616202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804733536813088772\/Fp4uK6FO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813115543611908096\/GgK4j1DO_normal.jpg",
       "id" : 154616202,
       "verified" : false
     }

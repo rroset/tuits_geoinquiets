@@ -7986,7 +7986,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Claudio @ CDMX",
+      "name" : "Claudio @ Baja Sur",
       "screen_name" : "ccossio",
       "indices" : [ 3, 11 ],
       "id_str" : "20304727",
@@ -8121,7 +8121,7 @@ Grailbird.data.tweets_2015_03 =
     "id" : 572861047071121409,
     "created_at" : "2015-03-03 20:48:11 +0000",
     "user" : {
-      "name" : "Claudio @ CDMX",
+      "name" : "Claudio @ Baja Sur",
       "screen_name" : "ccossio",
       "protected" : false,
       "id_str" : "20304727",

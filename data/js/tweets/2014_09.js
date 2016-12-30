@@ -4301,7 +4301,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "17688757",
       "id" : 17688757
     }, {
-      "name" : "Jordi #Rep\u00FAblicaCAT",
+      "name" : "(((Jordi Fdez)))",
       "screen_name" : "jofesan",
       "indices" : [ 33, 41 ],
       "id_str" : "160709107",
@@ -5312,7 +5312,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "553607014",
       "id" : 553607014
     }, {
-      "name" : "Transport P\u00FAblic",
+      "name" : "Promoci\u00F3 T. P\u00FAblic",
       "screen_name" : "transportpublic",
       "indices" : [ 11, 27 ],
       "id_str" : "271603845",

@@ -4303,7 +4303,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "diego_gon",
       "protected" : false,
       "id_str" : "111561268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749728970699046912\/B8qWQgqR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814370242344419328\/RF2iB_gL_normal.jpg",
       "id" : 111561268,
       "verified" : false
     }

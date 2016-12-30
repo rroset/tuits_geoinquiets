@@ -13573,7 +13573,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ThierryDugeon",
       "protected" : false,
       "id_str" : "466628138",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809171384228315136\/Te1h9Byy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814607128480677888\/BGCkFHN5_normal.jpg",
       "id" : 466628138,
       "verified" : false
     }

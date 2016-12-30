@@ -386,7 +386,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "VictorVelarde",
       "protected" : false,
       "id_str" : "17784084",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2348725751\/al2rf6p6vyk5v317kymz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811131473927557126\/79Ii1XUU_normal.jpg",
       "id" : 17784084,
       "verified" : false
     }
